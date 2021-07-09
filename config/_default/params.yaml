@@ -20,23 +20,21 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: femoz.project@gmail.com
+phone: 0221 82752774
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Betzdorfer Str. 2
+  city: köln
   region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  postcode: '50679'
+  country: Germany
+  country_code: DE
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: ''
+  longitude: ''
+directions: 
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Monday to Friday 10:00 to 13:00'
 contact_links:
 #  - icon: comments
 #    icon_pack: fas

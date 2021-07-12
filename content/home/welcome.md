@@ -10,7 +10,7 @@ title: ""
 subtitle: ""
 design:
   columns: "1"
-hero_media: null
+hero_media: mapchart_map.png
 ---
 Implementing Mediterranean **N**orth **A**frican **D**airy **A**groecological **L**iving **L**abs for enhancing the resilience of small-holder production systems  
 

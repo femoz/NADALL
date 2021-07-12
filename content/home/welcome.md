@@ -9,9 +9,11 @@ weight: 10
 title: ""
 subtitle: ""
 design:
-  columns: "1"
+  columns: "2"
 hero_media: mapchart_map.png
 ---
+
+<style> body {text-align: justify}
 Implementing Mediterranean **N**orth **A**frican **D**airy **A**groecological **L**iving **L**abs for enhancing the resilience of small-holder production systems  
 
 This project focuses on Morocco, Algeria, and Egypt. These Mediterranean countries have experienced strong population growth and urbanization rates in the last few decades. In Egypt, for example, the population has quadrupled in the last 60 years.
@@ -20,4 +22,4 @@ Agroecology principles and practices have long been recognized as such an i
 \
 Crop diversity strategies (crop rotations and inclusion of nitrogen-fixing legumes) can directly increase the nitrogen pool in the soil, and reduce pest incidences. Crop livestock integration (CLI) besides reducing the risk of raising a single product, can reduce external fertilizer use through nutrient cycling, and support soil conservation practices that increased water retention capacities, resistance to soil erosion, and increase soil organic C. 
 
-For addressing these constraints towards an effective transition to agroecological dairy farming systems in the Mediterranean North African region, the following objective structure is set-up in this project.
+For addressing these constraints towards an effective transition to agroecological dairy farming systems in the Mediterranean North African region, the following objective structure is set-up in this project. </style>

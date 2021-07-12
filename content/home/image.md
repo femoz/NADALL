@@ -11,7 +11,7 @@ active: false
 design:
   columns: "1"
   background:
-    image: ""
+    image: mapchart_map.png
     image_darken: 0
     image_parallax: false
     image_position: center

@@ -21,8 +21,8 @@ In Egypt, for example, the population has quadrupled in the last 60 years.
 
 Agroecology principles and practices have long been recognized 
 as such an integrative framework for an effective transition to 
-sustainable food and agricultural systems. In this context, reducing 
-or replacing external chemical inputs (e.g., synthetic fertilizers 
+sustainable food and agricultural systems. In this context, 
+reducing or replacing external chemical inputs (e.g., synthetic fertilizers 
 and pesticides) can be done by re-diversifying farming systems and 
 with it enhancing the delivery of ecosystem services.
 

@@ -12,7 +12,9 @@ design:
   columns: "3"
 hero_media: mapchart_map.png
 ---
-Implementing Mediterranean **N**orth **A**frican **D**airy **A**groecological **L**iving **L**abs for enhancing the resilience of small-holder production systems  
+Implementing Mediterranean **N**orth **A**frican **D**airy 
+**A**groecological **L**iving **L**abs for enhancing the 
+resilience of small-holder production systems  
 
 This project focuses on Morocco, Algeria, and Egypt. These Mediterranean countries have experienced strong population growth and urbanization rates in the last few decades. In Egypt, for example, the population has quadrupled in the last 60 years.
 

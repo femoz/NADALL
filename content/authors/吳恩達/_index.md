@@ -5,7 +5,7 @@ organizations:
     url: https://www.tt.th-koeln.de/institute/
 superuser: false
 authors:
-  - 吳恩達
+  - Pedro Ivo Bastos de Castro
 title: Pedro Ivo Bastos de Castro
 role: Research coordinator
 bio: ""
@@ -14,7 +14,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:pedro_ivo.bastos_de_castro@th-koeln.de
-education:
+education: []
   courses: []
 email: ""
 user_groups:

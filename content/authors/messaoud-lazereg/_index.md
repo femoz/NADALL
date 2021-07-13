@@ -1,5 +1,6 @@
 ---
 title: Messaoud Lazereg
+role: Researcher
 avatar_filename: avatar
 social: []
 organizations:

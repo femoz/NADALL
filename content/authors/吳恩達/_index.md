@@ -14,7 +14,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:pedro_ivo.bastos_de_castro@th-koeln.de
-#education: 
+# education:
   courses: []
 email: ""
 user_groups:

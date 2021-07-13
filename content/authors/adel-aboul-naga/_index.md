@@ -1,5 +1,6 @@
 ---
 title: Adel Aboul Naga
+role: Researcher
 avatar_filename: avatar
 social: []
 organizations:

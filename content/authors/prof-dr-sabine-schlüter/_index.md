@@ -1,7 +1,7 @@
 ---
 title: "Sabine Schlüter   "
 role: Project coordinator
-avatar_filename: https://www.th-koeln.de/pseimg/9e4673e1d81f38f695907a26056a788c7d8159e3.png
+avatar_filename: sabine.png
 social:
   - display:
       header: false

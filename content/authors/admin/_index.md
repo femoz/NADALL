@@ -12,8 +12,8 @@ organizations:
       Subtropics / Faculty of Spatial Development and Infrastructure Systems /
       TH Köln - University of Applied Sciences "
     url: https://www.tt.th-koeln.de/institute/
-education: false
-  courses: false
+education:
+  courses: []
 email: ""
 superuser: true
 user_groups:

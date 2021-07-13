@@ -1,7 +1,7 @@
 ---
 title: Rui Pedroso
 role: "Scientific coordinator – Project manager "
-bio: ""
+bio: []
 interests: []
 social:
   - icon: envelope
@@ -12,7 +12,7 @@ organizations:
       Subtropics / Faculty of Spatial Development and Infrastructure Systems /
       TH Köln - University of Applied Sciences "
     url: https://www.tt.th-koeln.de/institute/
-#education:
+education: []
   #courses: []
 email: ""
 superuser: true

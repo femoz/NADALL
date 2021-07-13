@@ -13,4 +13,6 @@ organizations:
       Subtropics / TH Köln - University of Applied Sciences "
     url: https://www.tt.th-koeln.de/institute/
 superuser: false
+user_groups:
+  - Researchers
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Sabine Schlüter   "
 role: Project coordinator
-avatar_filename: sabine.png
+avatar_filename: ""
 social:
   - display:
       header: false

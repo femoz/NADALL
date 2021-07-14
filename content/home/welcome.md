@@ -12,6 +12,7 @@ design:
   columns: "3"
 hero_media: mapchart_map.png
 ---
+"color: red"
 Implementing Mediterranean **N**orth **A**frican **D**airy 
 **A**groecological **L**iving **L**abs for enhancing the 
 resilience of small-holder production systems  

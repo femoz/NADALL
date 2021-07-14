@@ -12,7 +12,8 @@ design:
   columns: "3"
 hero_media: mapchart_map.png
 ---
-<span style='color:#66023C; font-size:150%; font-weight:600'>Implementing Mediterranean **N**orth **A**frican **D**airy 
+<span style='color:#1768a6; font-size:100%; font-weight:600'>Implementing Mediterranean **N**orth 
+  **A**frican **D**airy 
 **A**groecological **L**iving **L**abs for enhancing the 
 resilience of small-holder production systems. </span> 
 

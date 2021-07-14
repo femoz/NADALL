@@ -7,7 +7,7 @@ external_link: false
 image:
   filename: mapchart_map.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 
 ---
 This project focuses on Morocco, Algeria, and Egypt. These Mediterranean countries have experienced strong population growth and urbanization rates in the last few decades. In Egypt, for example, the population has quadrupled in the last 60 years.

@@ -18,11 +18,11 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: Betzdorfer Straße 2
+  city: Köln
+  region: NW
+  postcode: "50679"
+  country: Germany
 publishDate: 2021-07-14T11:06:28.802Z
 tags: []
 projects: null

@@ -25,8 +25,6 @@ reducing or replacing external chemical inputs (e.g., synthetic fertilizers
 and pesticides) can be done by re-diversifying farming systems and 
 with it enhancing the delivery of ecosystem services.
 
-Crop diversity strategies (crop rotations and inclusion of nitrogen-fixing legumes) can directly increase the nitrogen pool in the soil, and reduce pest incidences. Crop livestock integration (CLI) besides reducing the risk of raising a single product, can reduce external fertilizer use through nutrient cycling, and support soil conservation practices that increased water retention capacities, resistance to soil erosion, and increase soil organic C. 
-
-For addressing these constraints towards an effective transition to agroecological dairy farming systems in the Mediterranean North African region, the following objective structure is set-up in this project. 
+Crop diversity strategies (crop rotations and inclusion of nitrogen-fixing legumes) can directly increase the nitrogen pool in the soil, and reduce pest incidences. Crop livestock integration (CLI) besides reducing the risk of raising a single product, can reduce external fertilizer use through nutrient cycling, and support soil conservation practices that increased water retention capacities, resistance to soil erosion, and increase soil organic C.  
 
 

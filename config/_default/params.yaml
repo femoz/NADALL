@@ -23,23 +23,24 @@ twitter: ''
 contact: Dr. Rui Pedroso - Scientific Project Coordinator
 email: rui.pedroso@th-koeln.de
 phone: +49 221-8275-2148
-directions: Technische Hochschule Köln ITT/Kalk
 address: 
   street: Robertstraße 2
   city: köln
-  region: CA
+  region: NRW
   postcode: '51105'
   country: Germany
   country_code: DE
 coordinates:
   latitude: '50.93709833919327'
   longitude: '6.998820538548873'
+directions: Technische Hochschule Köln ITT/Kalk
 office_hours:
   - 'Monday to Friday 10:00 to 13:00'
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
-#    name: Discuss on Forum
+name: Dr. Rui Pedroso - Scientific Project Coordinator
+# Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
 
 # Site header

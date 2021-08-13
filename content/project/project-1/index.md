@@ -17,4 +17,4 @@ The average annual rainfall is low and water stress constitutes the main limitin
 
 Conventional intensification pathways do not deliver sustainable solutions for small dairy farmers; they bring too many environmental impacts and a burden of economic risks, i.e., external dependencies, increasing costs and supply uncertainties. 
 
-A paradigm change is needed for more sustainable agricultural production systems. Integrative agroecological frameworks based on territorial approaches are feasible alternatives for the needed transition
+A paradigm change is needed for more sustainable agricultural production systems. Integrative agroecological frameworks based on territorial approaches are feasible alternatives for the needed transition.

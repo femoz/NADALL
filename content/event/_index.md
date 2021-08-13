@@ -1,6 +1,6 @@
 ---
 title: Recent & Upcoming Events
-
+coming up soon.
 # View.
 #   1 = List
 #   2 = Compact
@@ -8,7 +8,7 @@ title: Recent & Upcoming Events
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header: "coming up soon."
+header: 
   caption: ""
   image: ""
 ---

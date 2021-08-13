@@ -8,7 +8,7 @@ title: Recent & Upcoming Events
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
+header: "coming up soon."
   caption: ""
   image: ""
 ---

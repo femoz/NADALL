@@ -2,6 +2,7 @@
 title: "Sabine Schlüter   "
 role: Project coordinator
 authors:
+  - Sabine Schlüter
   - Sabine Schlueter
   - Sabine Schl%C3%U4ter
   - Sabine Schluter

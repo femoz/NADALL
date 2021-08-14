@@ -4,6 +4,7 @@ publication_types:
   - "6"
 authors:
   - Sabine Schlüter
+  - Sabine Schl%C3%U4ter
   - Udo Nehren
   - Dietmar Sattler
   - Claudia Raedig

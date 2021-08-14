@@ -6,7 +6,6 @@ publication_types:
 authors:
   - Pedro Ivo Bastos de Castro
   - admin
-  - Mohamed Taher Sraïri
   - Sven Lautenbach
   - Raul Vicens
 doi: 10.1016/j.landusepol.2020.104633

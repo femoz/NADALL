@@ -9,7 +9,7 @@ authors:
   - P.Laux
   - H.Kunstmann
 doi: 10.1016/j.agwat.2018.05.018
-publication: Agricultural Water Management Volume 208, 30 September 2018, Pages 193-203
+publication: Agricultural Water Management Volume 208, Pages 193-203
 abstract: "In Central Vietnam, farmers report an increasing occurrence frequency
   of water shortages for irrigation during dry seasons. Particularly during the
   summer-autumn rice season, water is often insufficient to irrigate the entire
@@ -40,5 +40,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-14T06:05:09.121Z
+date: 2018-09-30T06:05:09.121Z
 ---

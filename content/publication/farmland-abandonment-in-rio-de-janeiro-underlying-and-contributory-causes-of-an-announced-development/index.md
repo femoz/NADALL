@@ -10,7 +10,7 @@ authors:
   - Sven Lautenbach
   - Raul Vicens
 doi: 10.1016/j.landusepol.2020.104633
-publication: Land Use Policy Volume 95, June 2020, 104633
+publication: Land Use Policy Volume 95, 104633
 abstract: Farmland abandonment is a widespread process with mixed socio-economic
   and environmental consequences. Farmland abandonment in Rio de Janeiro State
   is mainly instigated by the sugarcane industry crisis. The sugarcane crisis in
@@ -37,5 +37,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-14T06:58:58.901Z
+date: 2020-06-14T06:58:58.901Z
 ---

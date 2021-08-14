@@ -1,12 +1,13 @@
 ---
 title: Tourists' willingness to pay for upstream restoration and conservation measures
+subtitle: Journal of Sustainable Tourism  Volume 27, 2019 - Issue 8
 publication_types:
   - "2"
 authors:
   - admin
   - James Kungu
 doi: 10.1080/09669582.2019.1593991
-publication: https://www.researchgate.net/publication/332963557_Tourists'_willingness_to_pay_for_upstream_restoration_and_conservation_measures
+publication: 20 May 2019
 abstract: Continuous wildlife loss worldwide and in the Masai Mara National
   Reserve in Kenya in particular motivated this study. Degradation of ecosystem
   services in the Mara basin is a cause of increasing pressure on the wildlife

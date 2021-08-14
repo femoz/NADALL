@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - James Kungu
+  - James Biu Kung’u
 doi: 10.1080/09669582.2019.1593991
 publication: Journal of Sustainable Tourism  Volume 27, 2019 - Issue 8
 abstract: Continuous wildlife loss worldwide and in the Masai Mara National

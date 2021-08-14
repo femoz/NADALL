@@ -3,7 +3,7 @@ title: The INTECRAL Project
 publication_types:
   - "6"
 authors:
-  - Sabine Schlüter
+  - prof-dr-sabine-schlüter
   - Udo Nehren
   - Dietmar Sattler
   - Claudia Raedig
@@ -33,5 +33,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-14T06:23:23.224Z
+date: 2018-08-17T06:23:23.224Z
 ---

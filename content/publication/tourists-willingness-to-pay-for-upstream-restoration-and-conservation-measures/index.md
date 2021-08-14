@@ -3,7 +3,7 @@ title: Tourists' willingness to pay for upstream restoration and conservation me
 publication_types:
   - "2"
 authors:
-  - Rui Pedroso
+  - admin
   - James Kungu
 doi: 10.1080/09669582.2019.1593991
 publication: https://www.researchgate.net/publication/332963557_Tourists'_willingness_to_pay_for_upstream_restoration_and_conservation_measures

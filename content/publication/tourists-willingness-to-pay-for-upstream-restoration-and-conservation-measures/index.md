@@ -25,7 +25,7 @@ abstract: Continuous wildlife loss worldwide and in the Masai Mara National
   in the Mara River Basin complementing former studies concerned with the
   willingness to accept conservation and restoration measures in the upstream of
   the basin. The study closes an important knowledge gap and paves the way for
-  an institutional solution enabling PES implementation in the basin.
+  an institutional solution enabling PES implementation in the basin. 
 draft: false
 featured: false
 image:

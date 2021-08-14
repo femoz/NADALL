@@ -3,6 +3,7 @@ title: "Sabine Schlüter   "
 role: Project coordinator
 authors:
   - Sabine Schlüter
+  - Sabine Schluter
 avatar_filename: ""
 social:
   - display:

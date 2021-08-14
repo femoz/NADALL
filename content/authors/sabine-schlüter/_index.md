@@ -4,6 +4,8 @@ role: Project coordinator
 authors:
   - Sabine Schlüter
   - Sabine Schluter
+  - Sabine Schlueter
+  - Sabine Schl%C3%U4ter
 avatar_filename: ""
 social:
   - display:

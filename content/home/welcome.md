@@ -12,19 +12,6 @@ design:
   columns: "3"
 hero_media: mapchart_map.png
 ---
-Implementing Mediterranean <span style='color:#1768a6; font-size:100%; font-weight:600'>**N**orth **A**frican **D**airy 
-**A**groecological **L**iving **L**abs </span> for enhancing the resilience of small-holder production systems.  
+FORRE is an initiative from the Regional Sustainable Food Systems Research Group (Forschung für Resiliente und Nachhaltige Regionale Ernährungssysteme). The research group, led by the Institute of Technology and Natural Resources Management in the Tropics and Subtropics from the TH Köln, works with **partners** from France, Portugal, Algeria, and Egypt to promote high-impact research in Mediterranea countries.  
 
-This project focuses on Morocco, Algeria, and Egypt. These Mediterranean countries have experienced strong population growth and urbanization rates in the last few decades. 
-In Egypt, for example, the population has quadrupled in the last 60 years.
-
-Agroecology principles and practices have long been recognized 
-as such an integrative framework for an effective transition to 
-sustainable food and agricultural systems. In this context, 
-reducing or replacing external chemical inputs (e.g., synthetic fertilizers 
-and pesticides) can be done by re-diversifying farming systems and 
-with it enhancing the delivery of ecosystem services.
-
-Crop diversity strategies (crop rotations and inclusion of nitrogen-fixing legumes) can directly increase the nitrogen pool in the soil, and reduce pest incidences. Crop livestock integration (CLI) besides reducing the risk of raising a single product, can reduce external fertilizer use through nutrient cycling, and support soil conservation practices that increased water retention capacities, resistance to soil erosion, and increase soil organic C.  
-
-
+The group's main task right now is PRIMA Section 2 Call multi-topics 2021. Our NADALL project was recently selected for **the second phase of the PRIMA Section 2 Call multi-topics 2021.**

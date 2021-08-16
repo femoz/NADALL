@@ -19,7 +19,7 @@ organizations:
       Subtropics / TH Köln - University of Applied Sciences "
     url: https://www.tt.th-koeln.de/institute/
 education: []
-email: ""
+email: "pedro_ivo.bastos_de_castro@th-koeln.de"
 user_groups:
   - Researchers
 ---

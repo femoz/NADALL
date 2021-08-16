@@ -13,7 +13,7 @@ authors:
   - Youssef Aboussaleh
   - Messaoud Lazereg
   - Pedro Ivo Bastos de Castro
-external_link: "0"
+#external_link: 
 image:
   filename: featured
   focal_point: Smart

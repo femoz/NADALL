@@ -9,16 +9,16 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-[<span style='color:#1768a6; font-size:100%; font-weight:600'>Agricultural Research Centre for International Development (CIRAD), France </span>](https://www.cirad.fr/en)
+[<span style='color:#1768a6; font-size:100%; font-weight:600'>Agricultural Research Centre for International Development (CIRAD), France. </span>](https://www.cirad.fr/en)
 
-Institut national de la recherché agronomique (INRAE), France  
+[<span style='color:#1768a6; font-size:100%; font-weight:600'>Institut national de la recherché agronomique (INRAE), France. </span>](https://www.inrae.fr/) 
 
-University of Lisbon, School of Agriculture, Centre Linking Landscape, Environment, Agriculture and Food (ISA), Portugal 
+[<span style='color:#1768a6; font-size:100%; font-weight:600'>University of Lisbon, School of Agriculture, Centre Linking Landscape, Environment, Agriculture and Food (ISA), Portugal. </span>](https://www.isa.ulisboa.pt/en/leaf/presentation)
 
-Institut Agronomique et Vétérinaire Hassan II, Rabat, (IAV), Morocco,  
+[<span style='color:#1768a6; font-size:100%; font-weight:600'>Institut Agronomique et Vétérinaire Hassan II, Rabat, (IAV), Morocco. </span>](https://iav.ac.ma/) 
 
-Ibn Tofail University (UIT), Kénitra, Faculté of Sciences, Departement of Biology, Laboratory of Nutrition, Health and Environnement, Morocco 
+[<span style='color:#1768a6; font-size:100%; font-weight:600'>Ibn Tofail University (UIT), Kénitra, Faculté of Sciences, Departement of Biology, Laboratory of Nutrition, Health and Environnement, Morocco. </span>](https://fs.uit.ac.ma/biologie/)
 
-Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algeria 
+[<span style='color:#1768a6; font-size:100%; font-weight:600'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algeria. </span>](http://www.cread.dz/index.php/en/home-2/)
 
-Animal Production Research Institute of the Agriculture Research Center, Giza (APRI), Egypt 
+[<span style='color:#1768a6; font-size:100%; font-weight:600'>Animal Production Research Institute of the Agriculture Research Center, Giza (APRI), Egypt. </span>](http://www.arc.sci.eg/InstsLabs/Default.aspx?OrgID=7&lang=en) 

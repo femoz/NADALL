@@ -4,7 +4,7 @@ date: 2021-08-16T16:17:01.216Z
 summary: >-
   This project focuses on Morocco, Algeria, and Egypt. These Mediterranean
   countries have experienced strong population growth and urbanization rates in
-  the last few decades. 
+  the last few decades... 
 draft: false
 featured: false
 authors:

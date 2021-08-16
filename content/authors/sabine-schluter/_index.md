@@ -10,7 +10,7 @@ avatar_filename: ""
 social:
   - display:
       header: false
-    link: sabine.schlueter@th-koeln.de
+    link: mailto:sabine.schlueter@th-koeln.de
     icon_pack: fas
     icon: envelope
 organizations:

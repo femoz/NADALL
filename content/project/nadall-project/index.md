@@ -38,7 +38,7 @@ image:
 
 <span style='color:#1768a6; font-size:100%; font-weight:600'>**Project Regions**</span>
 
-hero_media: NADALL_map.jpg
+![screen reader text](NADALL_map.jpg "caption")
 
 This project focuses on Morocco, Algeria, and Egypt. These Mediterranean countries have experienced strong population growth and urbanization rates in the last few decades. In Egypt, for example, the population has quadrupled in the last 60 years.
 

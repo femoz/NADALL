@@ -9,9 +9,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-[<span style='color:#1768a6; font-size:100%; font-weight:600'>Agricultural Research Centre for International Development (CIRAD), France. </span>](https://www.cirad.fr/en)
+[<span style='color:#1768a6; font-size:100%; font-weight:300'>Agricultural Research Centre for International Development (CIRAD), France. </span>](https://www.cirad.fr/en)
 
-[<span style='color:#1768a6; font-size:100%; font-weight:600'>Institut national de la recherché agronomique (INRAE), France. </span>](https://www.inrae.fr/) 
+[<span style='color:#1768a6; font-size:100%; font-weight:300'>Institut national de la recherché agronomique (INRAE), France. </span>](https://www.inrae.fr/) 
 
 [<span style='color:#1768a6; font-size:100%; font-weight:600'>University of Lisbon, School of Agriculture, Centre Linking Landscape, Environment, Agriculture and Food (ISA), Portugal. </span>](https://www.isa.ulisboa.pt/en/leaf/presentation)
 

@@ -8,22 +8,22 @@ summary: >-
 draft: false
 featured: false
 authors:
-  - admin
   - Sabine Schlüter
-  - Guillaume Duteurtre
+  - admin
+  - Pedro Ivo Bastos de Castro
   - M'hand Fares
   - Luis Filipe Sanches Goulao
   - Mohamed Taher Sraïri
   - Youssef Aboussaleh
   - Messaoud Lazereg
-  - Pedro Ivo Bastos de Castro
+  - Guillaume Duteurtre
 external_link: no
 image:
-  filename: NADALL_map.jpg
+  filename: 
   focal_point: Smart
   preview_only: false
 ---
-<span style='color:#1768a6; font-size:100%; font-weight:600'>**DRAFT TEXT**</span>
+<span style='color:#FF0000; font-size:100%; font-weight:800'>**DRAFT TEXT**</span>
 
   The strong population and urbanization developments have induced changing consumption preferences and diets towards more meat and dairy products. Policies have responded by promoting more intensified livestock production systems in detriment of the traditional extensive systems of these regions. However, and despite of the apparent advantages of these intensive systems in terms of satisfying the growing demand, it has become clear in recent years that these systems have a heavy environmental footprint causing environmental damage and serious concerns about future developments. Intensive dairy farms require significant amounts of water contributing to groundwater depletion in several arid and semi-arid regions of the Mediterranean. 
 

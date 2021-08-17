@@ -18,7 +18,6 @@ authors:
   - Messaoud Lazereg
   - Pedro Ivo Bastos de Castro
 external_link: no
-hero_media: NADALL_map.jpg
 image:
   filename: NADALL_map.jpg
   focal_point: Smart
@@ -38,8 +37,8 @@ image:
   A paradigm change is needed for more sustainable agricultural production systems. Integrative agroecological frameworks based on territorial approaches are feasible alternatives for the needed transition.
 
 <span style='color:#1768a6; font-size:100%; font-weight:600'>**Project Regions**</span>
----
+
 hero_media: NADALL_map.jpg
----
+
 This project focuses on Morocco, Algeria, and Egypt. These Mediterranean countries have experienced strong population growth and urbanization rates in the last few decades. In Egypt, for example, the population has quadrupled in the last 60 years.
 

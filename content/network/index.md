@@ -12,7 +12,14 @@ image:
 <span style='color:#1768a6; font-size:100%; font-weight:600'>**Network leader:**</span> 
 
 [<span style='color:#000000; font-size:100%; font-weight:300'>Institute for Technology and Resources Management in the Tropics and Subtropics (ITT- THK), Germany. </span>](https://www.tt.th-koeln.de/)
+profile: sabine-schluter
 
+content:
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+  - Principal Investigators
+  - 
 [<span style='color:#000000; font-size:100%; font-weight:300'>Sabine Schlüter</span>](https://forre.netlify.app/author/sabine-schluter/) - [<span style='color:#000000; font-size:100%; font-weight:300'>Rui Pedroso</span>](author/rui-pedroso) - [<span style='color:#000000; font-size:100%; font-weight:300'>Pedro Ivo Bastos de Castro</span>](pedro-ivo-bastos-de-castro)
 
 <span style='color:#1768a6; font-size:100%; font-weight:600'>**Network Members:**</span>  

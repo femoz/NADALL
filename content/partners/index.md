@@ -11,7 +11,7 @@ image:
 ---
 <span style='color:#1768a6; font-size:100%; font-weight:600'>**Network Coordinator:**</span> 
 
-[<span style='color:#1768a6; font-size:100%; font-weight:300'>Institute for Technology and Resources Management in the Tropics and Subtropics (ITT- THK), Germany. </span>](https://www.tt.th-koeln.de/)
+[<span style='color:##000000; font-size:100%; font-weight:300'>Institute for Technology and Resources Management in the Tropics and Subtropics (ITT- THK), Germany. </span>](https://www.tt.th-koeln.de/)
 
 [Sabine Schlüter](sabine-schluter) - [Rui Pedroso](rui-pedroso) - [Pedro Ivo Bastos de Castro](pedro-ivo-bastos-de-castro)
 

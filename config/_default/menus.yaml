@@ -5,7 +5,7 @@
 
 main:
   - name: Network 
-    url: partners
+    url: network
     weight: 20
   - name: Project 
     url: project 

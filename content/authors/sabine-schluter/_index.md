@@ -21,10 +21,10 @@ superuser: false
 user_groups:
   - Researchers
 ---
- 
-  
-   
-    
-     
-      
+** 
+  **
+   **
+    **
+     **
+      **
 Prof. Dr. Sabine Schlüter is an expert of Environmental and Resource Economics and the executive director of ITT of TH Köln. She has been a professor of ITT since 2007 and her major areas of expertise include, among others, environmental conservation management, regional sector modelling, farm system analysis, irrigation management/governance, and food production chain analysis.    

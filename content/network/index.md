@@ -18,6 +18,7 @@ image:
 </p>
 
 [Sabine Schlüter](https://forre.netlify.app/author/sabine-schluter/)
+{{% mention "sabine-schluter" %}}
 
 <p align="center">
   <img src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png" width="150" title="Rui Pedroso">

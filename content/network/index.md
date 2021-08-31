@@ -15,7 +15,9 @@ image:
 
 https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png
 
-[<span style='color:#000000; font-size:100%; font-weight:300'>Sabine Schlüter</span>]({{< ref "author/sabine-schluter/" >}})
+[<span style='color:#000000; font-size:100%; font-weight:300'>Sabine Schlüter</span>]({{< ref "/author/sabine-schluter/" >}})
+
+[About]({{< ref "/author/sabine-schluter/" >}} "About Us")
 
 [<span style='color:#000000; font-size:100%; font-weight:300'>Sabine Schlüter</span>](https://forre.netlify.app/author/sabine-schluter/) - [<span style='color:#000000; font-size:100%; font-weight:300'>Rui Pedroso</span>](author/rui-pedroso) - [<span style='color:#000000; font-size:100%; font-weight:300'>Pedro Ivo Bastos de Castro</span>](pedro-ivo-bastos-de-castro)
 

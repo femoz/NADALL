@@ -50,12 +50,12 @@ image:
 
 [<span style='color:#000000; font-size:100%; font-weight:300'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algeria. </span>](http://www.cread.dz/index.php/en/home-2/)
 
-- - - -
-
 {{% mention "messaoud-lazereg" %}}
+
+- - - -
 
 [<span style='color:#000000; font-size:100%; font-weight:300'>Animal Production Research Institute of the Agriculture Research Center, Giza (APRI), Egypt. </span>](http://www.arc.sci.eg/InstsLabs/Default.aspx?OrgID=7&lang=en) 
 
-- - - -
-
 {{% mention "adel-aboul-naga" %}}
+
+- - - -

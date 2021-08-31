@@ -18,7 +18,7 @@ image:
 
 <span style='color:#1768a6; font-size:100%; font-weight:600'>**Network Members:**</span>  
 
-[<span style='color:#1768a6; font-size:100%; font-weight:300'>Agricultural Research Centre for International Development (CIRAD), France. </span>](https://www.cirad.fr/en)
+[<span style='color:#0000; font-size:100%; font-weight:300'>Agricultural Research Centre for International Development (CIRAD), France. </span>](https://www.cirad.fr/en)
 
 {{% mention "guillaume-duteurtre" %}}
 

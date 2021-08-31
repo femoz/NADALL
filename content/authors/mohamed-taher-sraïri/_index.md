@@ -11,3 +11,8 @@ superuser: false
 user_groups:
   - Researchers
 ---
+<br />
+<br />
+<br />
+<br />
+Prof. Dr. Mohamed Taher SRAÏRI is a senior lecturer in Animal Science, (IAV) Hassan II Agronomy and Veterinary Medicine Institute, Rabat, Morocco. He is currently the Head of the School of Agricultural Sciences at IAV Hassan II. He has an experience of 25 years in research on topics related to crop-livestock systems in Morocco, with a focus on dairy production. His research activities have allowed him publishing more than 60 peer reviewed articles in international journals. He is mainly interested in dairy sciences: from on-farm production processes to supply chain characterization. He has achieved on-farm research in semi-arid to arid areas on water productivity in crop-livestock systems, in contexts where farms are in majority smallholder units. He is also currently involved in a global research network dealing with work uses in farming systems. 

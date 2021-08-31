@@ -18,6 +18,13 @@ image:
     <img width="15%" src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png">
     <img width="15%" src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png">
 </p>
+
+<p align="center" width="100%">
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+</p>
+
 {{% mention "sabine-schluter" %}} {{% mention "admin" %}} {{% mention "pedro-ivo-bastos-de-castro" %}}<br>
 
 <span style='color:#1768a6; font-size:100%; font-weight:600'>**Network Members:**</span>  

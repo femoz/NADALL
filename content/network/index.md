@@ -13,21 +13,12 @@ image:
 
 [<span style='color:#000000; font-size:100%; font-weight:300'>Institute for Technology and Resources Management in the Tropics and Subtropics (ITT- THK), Germany. </span>](https://www.tt.th-koeln.de/)
 
-<p align="left" width="100%">
-    {{% mention "sabine-schluter" %}}<br/>
-    <img width="15%" src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png">
-    {{% mention "sabine-schluter" %}}<br/>
-    <img width="15%" src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png">
-    {{% mention "sabine-schluter" %}}<br/>
-    <img width="15%" src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png">
-</p>
-
-|                                               |                                               |                                               |
+| <img width="60%" src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png">  |    <img width="60%" src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png">  | <img width="60%" src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png"> |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <img width="35%" src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png"> | <img width="15%" src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png"> | <img width="15%" src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png"> |
+| {{% mention "sabine-schluter" %}} | {{% mention "admin" %}}  | {{% mention "pedro-ivo-bastos-de-castro" %}} |
 
 
-{{% mention "sabine-schluter" %}} {{% mention "admin" %}} {{% mention "pedro-ivo-bastos-de-castro" %}}<br>
+ 
 
 <span style='color:#1768a6; font-size:100%; font-weight:600'>**Network Members:**</span>  
 

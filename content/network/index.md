@@ -13,28 +13,17 @@ image:
 
 [<span style='color:#000000; font-size:100%; font-weight:300'>Institute for Technology and Resources Management in the Tropics and Subtropics (ITT- THK), Germany. </span>](https://www.tt.th-koeln.de/)
 
-<p align="left">
-    <img src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png" width="100" title="Sabine Schlüter">
-  {{% mention "sabine-schluter" %}}
-</p>
-
-<p align="right" width="25%">
-    <img width="25%" src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png">
-    {{% mention "sabine-schluter" %}}<br>
-</p>
-
 <img align="left" width="25%" src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png">
 {{% mention "sabine-schluter" %}}<br>
-[Arduino](https://en.wikipedia.org/wiki/Arduino)
 
-<p align="center">
-  <img src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png" width="150" title="Rui Pedroso">
-</p>
+<img align="left" width="25%" src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png">
+{{% mention "rui-pedroso" %}}<br>
 
-[<span style='color:#000000; font-size:100%; font-weight:300'>Rui Pedroso</span>](author/rui-pedroso)
+<img align="left" width="25%" src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png">
+{{% mention "rui-pedroso" %}}<br>
 
 <p align="right">
-  <img src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png" width="150" title="Pedro Ivo Bastos de Castro">
+  <img src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png" width="150" title="pedro-ivo-bastos-de-castro">
 </p>
 
 [<span style='color:#000000; font-size:100%; font-weight:300'>Pedro Ivo Bastos de Castro</span>](pedro-ivo-bastos-de-castro)

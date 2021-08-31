@@ -23,3 +23,8 @@ email: "pedro_ivo.bastos_de_castro@th-koeln.de"
 user_groups:
   - Researchers
 ---
+<br />
+<br />
+<br />
+<br />
+Pedro Ivo Bastos de Castro (Male) is a researcher and PhD candidate of ITT. He has specializations on farm land management, application of GIS and remote sensing in farmland management and development.

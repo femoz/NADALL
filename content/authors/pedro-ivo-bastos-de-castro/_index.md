@@ -27,4 +27,4 @@ user_groups:
 <br />
 <br />
 <br />
-Pedro Ivo Bastos de Castro (Male) is a researcher and PhD candidate of ITT. He has specializations on farm land management, application of GIS and remote sensing in farmland management and development.
+Pedro Ivo Bastos de Castro is a researcher and PhD candidate of ITT. He has specializations on farm land management, application of GIS and remote sensing in farmland management and development.

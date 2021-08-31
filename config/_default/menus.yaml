@@ -7,7 +7,7 @@ main:
   - name: Network 
     url: network
     weight: 20
-  - name: Project 
+  - name: Projects 
     url: project 
     weight: 40
   - name: News

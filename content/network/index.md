@@ -16,17 +16,11 @@ image:
 <img align="left" width="25%" src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png">
 {{% mention "sabine-schluter" %}}<br>
 
-<img align="left" width="25%" src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png">
+<img align="center" width="25%" src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png">
 {{% mention "rui-pedroso" %}}<br>
 
-<img align="left" width="25%" src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png">
-{{% mention "rui-pedroso" %}}<br>
-
-<p align="right">
-  <img src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png" width="150" title="pedro-ivo-bastos-de-castro">
-</p>
-
-[<span style='color:#000000; font-size:100%; font-weight:300'>Pedro Ivo Bastos de Castro</span>](pedro-ivo-bastos-de-castro)
+<img align="right" width="25%" src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png">
+{{% mention "pedro-ivo-bastos-de-castro" %}}<br>
 
 <span style='color:#1768a6; font-size:100%; font-weight:600'>**Network Members:**</span>  
 

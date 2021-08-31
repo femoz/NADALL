@@ -15,10 +15,7 @@ image:
 
 | <img width="60%" src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png">  |    <img width="60%" src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png">  | <img width="60%" src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png"> |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <p style="text-align: center;"> {{% mention "sabine-schluter" %}}</p> | {{% mention "admin" %}}  | {{% mention "pedro-ivo-bastos-de-castro" %}} |
-
-
- 
+| <p style="text-align: center;"> {{% mention "sabine-schluter" %}}</p> | <p style="text-align: center;"> {{% mention "admin" %}}</p>  | <p style="text-align: center;"> {{% mention "pedro-ivo-bastos-de-castro" %}}</p> |
 
 <span style='color:#1768a6; font-size:100%; font-weight:600'>**Network Members:**</span>  
 

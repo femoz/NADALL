@@ -15,7 +15,7 @@ image:
 
 <p align="left">
   {{% mention "sabine-schluter" %}}
-  <img src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png" width="150" title="Sabine Schlüter">
+  <img src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png" width="100" title="Sabine Schlüter">
 </p>
 
 

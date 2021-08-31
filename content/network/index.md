@@ -18,8 +18,6 @@ image:
 
 [file2](authors/sabine-schluter/_index.md)
 
-[<span style='color:#000000; font-size:100%; font-weight:300'>Sabine Schlüter</span>]({{< ref "/author/sabine-schluter/" >}})
-
 [<span style='color:#000000; font-size:100%; font-weight:300'>Sabine Schlüter</span>](https://forre.netlify.app/author/sabine-schluter/) - [<span style='color:#000000; font-size:100%; font-weight:300'>Rui Pedroso</span>](author/rui-pedroso) - [<span style='color:#000000; font-size:100%; font-weight:300'>Pedro Ivo Bastos de Castro</span>](pedro-ivo-bastos-de-castro)
 
 <span style='color:#1768a6; font-size:100%; font-weight:600'>**Network Members:**</span>  

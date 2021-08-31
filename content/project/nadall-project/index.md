@@ -2,9 +2,7 @@
 title: Nadall Project
 date: 2021-08-16T16:17:01.216Z
 summary: >-
-  This project focuses on Morocco, Algeria, and Egypt. These Mediterranean
-  countries have experienced strong population growth and urbanization rates in
-  the last few decades... 
+The group's main task is the PRIMA Section 2 Call multi-topics 2021. NADALL, the group's research project pre-proposal in the Mediterranean region, was recently selected for the second phase of the PRIMA Section 2 Call multi-topics 2021.
 draft: false
 featured: false
 authors:

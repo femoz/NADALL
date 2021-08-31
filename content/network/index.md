@@ -17,7 +17,7 @@ image:
 {{% mention "sabine-schluter" %}}<br>
 
 <img align="center" width="25%" src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png">
-{{% mention "rui-pedroso" %}}<br>
+{{% mention "admin" %}}<br>
 
 <img align="right" width="25%" src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png">
 {{% mention "pedro-ivo-bastos-de-castro" %}}<br>

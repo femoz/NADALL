@@ -29,7 +29,7 @@ image:
 ---
 <span style='color:#FF0000; font-size:100%; font-weight:800'>**DRAFT TEXT**</span>
 
-<span style='color:#1768a6; font-size:100%; font-weight:600'>Implementing Mediterranean <u>underscored text </u> <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs for sustainable transitions and enhanced resilience of small-holder production systems</span>
+<span style='color:#1768a6; font-size:100%; font-weight:800'>Implementing Mediterranean <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs for sustainable transitions and enhanced resilience of small-holder production systems</span>
 
 The NADALL Project aims to contribute to a supported effective transition to agroecological intensified dairy farming systems and more sustainable food systems in the Mediterranean North African region. 
 
@@ -39,11 +39,9 @@ The objective’s framework of this project agrees with these strategies and sha
 
 In this context NADALL will as well connect with ongoing H2020 projects, where partners of this consortium are involved, like: (i) the NEFERTITI project (https://nefertiti-h2020.eu/), which has established an EU-wide network of demonstration and pilot farms designed to enhance knowledge exchanges on important issues of sustainable livestock systems; and (ii) the MIXED project (Multi-actor and transdisciplinary development of efficient and resilient MIXED farming and agroforestry-systems), dealing with methods that increase efficiency and resilience to climate change and reduce emissions (https://cordis.europa.eu/project/id/862357).
 
-<span style='color:#1768a6; font-size:100%; font-weight:600'>**Project Regions**</span>
+<span style='color:#1768a6; font-size:100%; font-weight:800'>**Project Regions**</span>
 
 {{< figure src="NADALL_map.jpg" caption="NADALL Project regions" theme="light" >}}
-
-This project focuses on Morocco, Algeria, and Egypt. These Mediterranean countries have experienced strong population growth and urbanization rates in the last few decades. In Egypt, for example, the population has quadrupled in the last 60 years....
 
 This project focuses on North African Mediterrranean contries; Morocco, Algeria, and Egypt. These countries have experienced strong population growth and urbanization rates in the last few decades. Morocco’s population has increased from 12.3 million in 1960 to over 36.0 million in 2018. The population growth in Algeria has been even higher from 11.0 million in 1960 to 42.2 million in 2018. In Egypt, the population has quadrupled during the last 60 years, counting around 100 million inhabitants in 2020 (Capmas 2021; World Bank 2021a, 2021b). The strong population and urbanization developments have induced changing in consumption preferences and diets towards more meat and dairy products, a challenge given the disadvantageous climatic conditions of the region. (Sraïri et al. 2013). Average annual rainfall is low and water stress constitutes the main limiting factor, with strong disparities among regions (WRI 2021).
 

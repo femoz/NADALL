@@ -38,6 +38,9 @@ image:
 
 {{% toc %}}
 
+{{% toc hide_on="xl" %}}
+
+
 The NADALL Project aims to contribute to a supported effective transition to agroecological intensified dairy farming systems and more sustainable food systems in the Mediterranean North African region. 
 
 ## Courses in this program

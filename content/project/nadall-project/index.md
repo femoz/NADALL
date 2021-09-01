@@ -56,3 +56,46 @@ Policy interventions have mostly promoted conventional intensification of livest
 Another major concern of conventional intensive systems is the over-use of fertilizers and pesticides for fodder production, where pesticides residues contaminate milk, posing a threat for public health. Conventional intensification pathways do not deliver sustainable solutions for small dairy farmers; they bring too many environmental impacts and burden of economic risks, i.e., external dependencies, increasing costs and supply uncertainties (Sraïri 2011; Sraïri et al. 2013). Integrative frameworks are needed, in territorial contexts, drawing on biodiversity-based agriculture, and agroecological transitions at the local level (Duru et al. 2015).
 
 Against this background it seems clear that a paradigm change is needed for more sustainable agricultural production systems in the region. Integrative agroecological frameworks based on territorial approaches are feasible alternatives for the needed transition. Agroecology principles and practices have long been recognized as an integrative framework for effective transition to sustainable food and agricultural systems. In this context, reducing or replacing external chemical inputs (e.g., synthetic fertilizers and pesticides) can be done by re-diversifying farming systems and with enhancing the delivery of ecosystem services. Crop diversity strategies (crop rotations and inclusion of nitrogen-fixing legumes) can directly increase the nitrogen pool in the soil, and reduce pest incidences. Crop livestock integration (CLI) besides reducing the risk of raising a single product, can reduce external fertilizer use through nutrient cycling, and support soil conservation practices that increased water retention capacities, resistance to soil erosion, and increase soil organic C (Bonaudo et al. 2014; Dumont and Bernués 2014; Dumont et al. 2013; FAO 2018; Vaarst et al. 2018; Wezel et al. 2009; Wezel et al. 2020).
+
+----
+Publication bibliography 
+
+Annicchiarico, P.; Abdellaqui, Z.; Kelkouli, M.; Zerargui, H. (2005): Grain yield, straw yield and economic value of tall and semi-dwarf durum wheat cultivars in Algeria. In The Journal of Agricultural Science 143 (1), pp. 57–64. DOI: 10.1017/S0021859605004855. 
+
+Bonaudo, Thierry; Bendahan, Amaury Burlamaqui; Sabatier, Rodolphe; Ryschawy, Julie; Bellon, Stéphane; Leger, François et al. (2014): Agroecological principles for the redesign of integrated crop–livestock systems. In European Journal of Agronomy 57 (2), pp. 43–51. DOI: 10.1016/j.eja.2013.09.010. 
+
+Boukhechem, Said; Moula, Nassim; Lakhdara, Nedjoua; Kaidi, Rachid (2019): Feeding practices of dairy cows in Algeria: Characterization, typology, and impact on milk production and fertility. In Journal of Advanced Veterinary and Animal Research 6 (4), pp. 567–574. DOI: 10.5455/javar.2019.f384. 
+
+Capmas (2021): Capmas. Available online at https://www.capmas.gov.eg/HomePage.aspx?lang=2, updated on 8/17/2021, checked on 8/17/2021. Dumont, B.; Bernués, A. (2014): Editorial: Agroecology for producing goods and services in sustainable animal farming systems. In Animal : an international journal of animal bioscience 8 (8), pp. 1201–1203. DOI: 10.1017/S1751731114001554. 
+
+Dumont, B.; Fortun-Lamothe, L.; Jouven, M.; Thomas, M.; Tichit, M. (2013): Prospects from agroecology and industrial ecology for animal production in the 21st century. In Animal : an international journal of animal bioscience 7 (6), pp. 1028–1043. DOI: 10.1017/S1751731112002418. 
+
+Duru, Michel; Olivier Therond; M’hand Fares (2015): Designing agroecological transitions; A review. In Agron. Sustain. Dev. 35 (4), pp. 1237–1257. DOI: 10.1007/s13593-015-0318-x. 
+
+FAO (2018): The 10 Elements of Agroecology. Available online at http://www.fao.org/agroecology/database/detail/en/c/1128220/, updated on 3/28/2021, checked on 3/28/2021. 
+
+Feagan, Robert (2016): Community-Supported Agriculture. In Paul B. Thompson, David M. Kaplan (Eds.): Encyclopedia of Food and Agricultural Ethics. Dordrecht: Springer Netherlands, pp. 1–9. 
+
+IFOAM (2019): PGS Guidelines. How to Develop and Manage Participatory Guarantee Systems for Organic Agriculture. 
+
+Loconto, Allison; Poisot, Anne Sophie; Santacoloma, Pilar (Eds.) (2016): Innovative markets for sustainable agriculture. How innovations in market institutions encourage sustainable agriculture in developing countries. FAO; Institut national de la recherche agronomique. Rome: Food and Agriculture Organization of the United Nations. Available online at http://www.fao.org/documents/card/en/c/53d39282-ddd7-460c-a27f-3d5015eea7ca. 
+
+Sraïri, M. T. (2011): Dairy development in Morocco, checked on 3/21/2021. 
+
+Sraïri, M. T.; Benyoucef, Mohammed Tahar; Kraiem, K. (2013): The dairy chains in North Africa (Algeria, Morocco and Tunisia): from self sufficiency options to food dependency? In SpringerPlus 2 (1), pp. 1–13. DOI: 10.1186/2193-1801-2-162. 
+
+Sraïri, M. T.; Kessab, B. (1998): Performances et modalités de production laitière dans six étables spécialisées au Maroc. In INRA Prod. Anim. 11 (4), pp. 321–326. DOI: 10.20870/productions-animales.1998.11.4.3958. 
+
+Thompson, Paul B.; Kaplan, David M. (Eds.) (2016): Encyclopedia of Food and Agricultural Ethics. Dordrecht: Springer Netherlands. 
+
+Vaarst, Mette; Escudero, Arthur Getz; Chappell, M. Jahi; Brinkley, Catherine; Nijbroek, Ravic; Arraes, Nilson A.M. et al. (2018): Exploring the concept of agroecological food systems in a city-region context. In Agroecology and Sustainable Food Systems 42 (6), pp. 686–711. DOI: 10.1080/21683565.2017.1365321. 
+
+Wezel, A.; Bellon, S.; Doré, T.; Francis, C.; Vallod, D.; David, C. (2009): Agroecology as a science, a movement and a practice. A review. In Agron. Sustain. Dev. 29 (4), pp. 503–515. DOI: 10.1051/agro/2009004. 
+
+Wezel, Alexander; Herren, Barbara Gemmill; Kerr, Rachel Bezner; Barrios, Edmundo; Gonçalves, André Luiz Rodrigues; Sinclair, Fergus (2020): Agroecological principles and elements and their implications for transitioning to sustainable food systems. A review. In Agron. Sustain. Dev. 40 (6), p. 587. DOI: 10.1007/s13593-020-00646-z. 
+
+World Bank (2021a): Population estimates and projections | DataBank. Available online at https://databank.worldbank.org/source/population-estimates-and-projections, updated on 3/21/2021, checked on 3/21/2021. 
+
+World Bank (2021b): World Bank Open Data | Data. Available online at https://data.worldbank.org/, updated on 8/18/2021, checked on 8/18/2021. 
+
+WRI (2021): World Resources Institute | Making Big Ideas Happen. Available online at https://www.wri.org/, updated on 8/18/2021, checked on 8/18/2021.

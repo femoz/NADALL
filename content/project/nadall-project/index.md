@@ -1,5 +1,5 @@
 ---
-title: Nadall Project
+title: Nadall
 date: 2021-08-16T16:17:01.216Z
 summary: >-
   <!--StartFragment-->

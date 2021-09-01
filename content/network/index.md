@@ -24,27 +24,9 @@ image:
 
 - - - -
 
-[<span style='color:#000000; font-size:100%; font-weight:300'>Institut national de la recherché agronomique (INRAE), France. </span>](https://www.inrae.fr/) 
+[<span style='color:#000000; font-size:100%; font-weight:300'>Animal Production Research Institute of the Agriculture Research Center (APRI-ARC), Egypt. </span>](http://www.arc.sci.eg/InstsLabs/Default.aspx?OrgID=7&lang=en) 
 
-{{% mention "mhand-fares" %}}
-
-- - - -
-
-[<span style='color:#000000; font-size:100%; font-weight:300'>University of Lisbon, School of Agriculture, Centre Linking Landscape, Environment, Agriculture and Food (ISA), Portugal. </span>](https://www.isa.ulisboa.pt/en/leaf/presentation)
-
-{{% mention "luis-filipe-sanches-goulao" %}}
-
-- - - -
-
-[<span style='color:#000000; font-size:100%; font-weight:300'>Institut Agronomique et Vétérinaire Hassan II, Rabat, (IAV), Morocco. </span>](https://iav.ac.ma/) 
-
-{{% mention "mohamed-taher-sraïri" %}}
-
-- - - -
-
-[<span style='color:#000000; font-size:100%; font-weight:300'>Ibn Tofail University (UIT), Kénitra, Faculté of Sciences, Departement of Biology, Laboratory of Biology and Health, Morocco. </span>](https://fs.uit.ac.ma/biologie/)
-
-{{% mention "youssef-aboussaleh" %}}
+{{% mention "adel-aboul-naga" %}}
 
 - - - -
 
@@ -54,8 +36,26 @@ image:
 
 - - - -
 
-[<span style='color:#000000; font-size:100%; font-weight:300'>Animal Production Research Institute of the Agriculture Research Center, Giza (APRI), Egypt. </span>](http://www.arc.sci.eg/InstsLabs/Default.aspx?OrgID=7&lang=en) 
+[<span style='color:#000000; font-size:100%; font-weight:300'>Ibn Tofail University (UIT), Kénitra, Faculté of Sciences, Departement of Biology, Laboratory of Biology and Health, Morocco. </span>](https://fs.uit.ac.ma/biologie/)
 
-{{% mention "adel-aboul-naga" %}}
+{{% mention "youssef-aboussaleh" %}}
+
+- - - -
+
+[<span style='color:#000000; font-size:100%; font-weight:300'>Institut Agronomique et Vétérinaire Hassan II (IAV), Morocco. </span>](https://iav.ac.ma/) 
+
+{{% mention "mohamed-taher-sraïri" %}}
+
+- - - -
+
+[<span style='color:#000000; font-size:100%; font-weight:300'>Institut national de la recherché agronomique (INRAE), France. </span>](https://www.inrae.fr/) 
+
+{{% mention "mhand-fares" %}}
+
+- - - -
+
+[<span style='color:#000000; font-size:100%; font-weight:300'>University of Lisbon, School of Agriculture, Centre Linking Landscape, Environment, Agriculture and Food (ISA), Portugal. </span>](https://www.isa.ulisboa.pt/en/leaf/presentation)
+
+{{% mention "luis-filipe-sanches-goulao" %}}
 
 - - - -

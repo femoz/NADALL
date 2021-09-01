@@ -29,9 +29,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<span style='color:#FF0000; font-size:100%; font-weight:800'>**DRAFT TEXT**</span>
-
-<span style='color:#1768a6; font-size:100%; font-weight:800'>Implementing Mediterranean <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs for sustainable transitions and enhanced resilience of small-holder production systems</span>
+<span style='color:#1768a6; font-size:100%; font-weight:1000'>Implementing Mediterranean <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs for sustainable transitions and enhanced resilience of small-holder production systems</span>
 
 {{% toc %}}
 

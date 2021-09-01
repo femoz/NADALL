@@ -29,7 +29,7 @@ image:
 ---
 <span style='color:#FF0000; font-size:100%; font-weight:800'>**DRAFT TEXT**</span>
 
-<span style='color:#1768a6; font-size:100%; font-weight:600'>Implementing Mediterranean **N**orth **A**frican **D**airy **A**groecological **L**iving **L**abs for sustainable transitions and enhanced resilience of small-holder production systems</span>
+<span style='color:#1768a6; font-size:100%; font-weight:600'>Implementing Mediterranean <u>underscored text </u> <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs for sustainable transitions and enhanced resilience of small-holder production systems</span>
 
 The NADALL Project aims to contribute to a supported effective transition to agroecological intensified dairy farming systems and more sustainable food systems in the Mediterranean North African region. 
 

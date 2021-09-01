@@ -24,6 +24,7 @@ authors:
   - Guillaume Duteurtre
 external_link: no
 weight: 10
+text-align: justify
 image:
   filename: null
   focal_point: Smart
@@ -35,7 +36,7 @@ image:
 
 <p style='text-align: justify;'>The NADALL Project aims to contribute to a supported effective transition to agroecological intensified dairy farming systems and more sustainable food systems in the Mediterranean North African region.</p> 
 
-<p style='text-align: justify;'>The project’s objective framework is in-line with most important international initiatives regarding the promotion of agroecology and sustainable transition pathways for more sustainable food systems. It is particularly in-line with the new EU “[Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en)” as the EU new growth strategy for a modern, resource-efficient and competitive economy, especially with the hereafter resulting EU strategies “[Farm to Fork](https://ec.europa.eu/food/horizontal-topics/farm-fork-strategy_en)” and “[Biodiversity 2030](https://ec.europa.eu/environment/strategy/biodiversity-strategy-2030_en)” that can be seen as lighthouse towards more fair, healthy and environmental-friendly food systems to protect nature and reverse environmental degradation.</p>
+<p style='text-align: justify;'>The project’s objective framework is in-line with most important international initiatives regarding the promotion of agroecology and sustainable transition pathways for more sustainable food systems. It is particularly in-line with the new EU</p> “[Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en)” <p style='text-align: justify;'>as the EU new growth strategy for a modern, resource-efficient and competitive economy, especially with the hereafter resulting EU strategies</p> “[Farm to Fork](https://ec.europa.eu/food/horizontal-topics/farm-fork-strategy_en)” and “[Biodiversity 2030](https://ec.europa.eu/environment/strategy/biodiversity-strategy-2030_en)” <p style='text-align: justify;'>that can be seen as lighthouse towards more fair, healthy and environmental-friendly food systems to protect nature and reverse environmental degradation.</p>
 
 The objective’s framework of this project agrees with these strategies and sharing the urgent need to reduce the dependency on chemical fertilizers and usage of pesticides, and increase ecosystem-based farming, improve animal welfare, and curb biodiversity loss in the Mediterranean North African region. Moreover, this project is as well aware of EU initiatives such as the [European Network of Living Labs (ENoLL) ](https://enoll.org/), and aims at connecting NADALL with ENoLL. 
 

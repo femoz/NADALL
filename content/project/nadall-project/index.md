@@ -36,6 +36,7 @@ image:
 {{< toc hide_on="xl" >}}
 
 
+{{% toc %}}
 
 The NADALL Project aims to contribute to a supported effective transition to agroecological intensified dairy farming systems and more sustainable food systems in the Mediterranean North African region. 
 
@@ -51,6 +52,8 @@ The objective’s framework of this project agrees with these strategies and sha
 In this context NADALL will as well connect with ongoing H2020 projects, where partners of this consortium are involved, like: (i) the NEFERTITI project (https://nefertiti-h2020.eu/), which has established an EU-wide network of demonstration and pilot farms designed to enhance knowledge exchanges on important issues of sustainable livestock systems; and (ii) the MIXED project (Multi-actor and transdisciplinary development of efficient and resilient MIXED farming and agroforestry-systems), dealing with methods that increase efficiency and resilience to climate change and reduce emissions (https://cordis.europa.eu/project/id/862357).
 
 ## <span style='color:#1768a6; font-size:100%; font-weight:800'>**Project Regions**</span>
+
+## Project Regions
 
 {{< figure src="NADALL_map.jpg" caption="NADALL Project regions" theme="light" >}}
 

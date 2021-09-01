@@ -58,7 +58,7 @@ Another major concern of conventional intensive systems is the over-use of ferti
 Against this background it seems clear that a paradigm change is needed for more sustainable agricultural production systems in the region. Integrative agroecological frameworks based on territorial approaches are feasible alternatives for the needed transition. Agroecology principles and practices have long been recognized as an integrative framework for effective transition to sustainable food and agricultural systems. In this context, reducing or replacing external chemical inputs (e.g., synthetic fertilizers and pesticides) can be done by re-diversifying farming systems and with enhancing the delivery of ecosystem services. Crop diversity strategies (crop rotations and inclusion of nitrogen-fixing legumes) can directly increase the nitrogen pool in the soil, and reduce pest incidences. Crop livestock integration (CLI) besides reducing the risk of raising a single product, can reduce external fertilizer use through nutrient cycling, and support soil conservation practices that increased water retention capacities, resistance to soil erosion, and increase soil organic C (Bonaudo et al. 2014; Dumont and Bernués 2014; Dumont et al. 2013; FAO 2018; Vaarst et al. 2018; Wezel et al. 2009; Wezel et al. 2020).
 
 ----
-Publication bibliography 
+## <span style='color:#1768a6; font-size:100%; font-weight:800'>**Bibliography**</span> 
 
 Annicchiarico, P.; Abdellaqui, Z.; Kelkouli, M.; Zerargui, H. (2005): Grain yield, straw yield and economic value of tall and semi-dwarf durum wheat cultivars in Algeria. In The Journal of Agricultural Science 143 (1), pp. 57–64. DOI: 10.1017/S0021859605004855. 
 

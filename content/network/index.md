@@ -42,7 +42,7 @@ image:
 
 - - - -
 
-[<span style='color:#000000; font-size:100%; font-weight:300'>Ibn Tofail University (UIT), Kénitra, Faculté of Sciences, Departement of Biology, Laboratory of Nutrition, Health and Environnement, Morocco. </span>](https://fs.uit.ac.ma/biologie/)
+[<span style='color:#000000; font-size:100%; font-weight:300'>Ibn Tofail University (UIT), Kénitra, Faculté of Sciences, Departement of Biology, Laboratory of Biology and Health, Morocco. </span>](https://fs.uit.ac.ma/biologie/)
 
 {{% mention "youssef-aboussaleh" %}}
 

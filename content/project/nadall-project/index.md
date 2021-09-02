@@ -42,7 +42,7 @@ The objective’s framework of this project agrees with these strategies and sha
 
 In this context NADALL will as well connect with ongoing [H2020 projects](https://ec.europa.eu/programmes/horizon2020/en/h2020-sections-projects), where partners of this consortium are involved, like: (i) the NEFERTITI project (https://nefertiti-h2020.eu/), which has established an EU-wide network of demonstration and pilot farms designed to enhance knowledge exchanges on important issues of sustainable livestock systems; and (ii) the MIXED project (Multi-actor and transdisciplinary development of efficient and resilient MIXED farming and agroforestry-systems), dealing with methods that increase efficiency and resilience to climate change and reduce emissions (https://cordis.europa.eu/project/id/862357).
 
-## Project Regions
+## <span style='color:#1768a6'>Project Regions</span>
 
 {{< figure src="NADALL_map.jpg" caption="NADALL Project regions" theme="light" >}}
 
@@ -60,7 +60,7 @@ In this context NADALL will as well connect with ongoing [H2020 projects](https:
 
 - - -
 
-## <span style='color:#1768a6; font-size:100%; font-weight:800'>**Bibliography**</span>
+## <span style='color:#1768a6'>Bibliography</span>
 
 Annicchiarico, P.; Abdellaqui, Z.; Kelkouli, M.; Zerargui, H. (2005): Grain yield, straw yield and economic value of tall and semi-dwarf durum wheat cultivars in Algeria. In The Journal of Agricultural Science 143 (1), pp. 57–64. DOI: 10.1017/S0021859605004855. 
 

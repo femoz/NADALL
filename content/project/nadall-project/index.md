@@ -1,6 +1,7 @@
 ---
+draft: false
+text-align: justify
 title: Nadall
-linktitle: Nadall
 date: 2021-08-16T16:17:01.216Z
 summary: >-
   <!--StartFragment-->
@@ -10,7 +11,6 @@ summary: >-
 
 
   <!--EndFragment-->
-draft: false
 featured: false
 authors:
   - Sabine Schlüter
@@ -24,14 +24,15 @@ authors:
   - Guillaume Duteurtre
 external_link: no
 weight: 10
-style:"text-align: justify
-text-align: justify
 image:
   filename: null
   focal_point: Smart
   preview_only: false
+linktitle: Nadall
+style:"text-align: justify
 ---
 ## <span style='color:#1768a6'>Implementing Mediterranean <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs for sustainable transitions and enhanced resilience of small-holder production systems </span>
+
 <br/>
 <p style='text-align: justify;'>NADALL Project aims to contribute to a supported effective transition to agroecological intensified dairy farming systems and more sustainable food systems in the Mediterranean North African region.</p> 
 
@@ -39,7 +40,7 @@ The project’s objective framework is in-line with most important international
 
 The objective’s framework of this project agrees with these strategies and sharing the urgent need to reduce the dependency on chemical fertilizers and usage of pesticides, and increase ecosystem-based farming, improve animal welfare, and curb biodiversity loss in the Mediterranean North African region. Moreover, this project is as well aware of EU initiatives such as the [European Network of Living Labs (ENoLL)](https://enoll.org/), and aims at connecting NADALL with ENoLL. 
 
-In this context NADALL will as well connect with ongoing [H2020 projects] (https://ec.europa.eu/programmes/horizon2020/en/h2020-sections-projects), where partners of this consortium are involved, like: (i) the NEFERTITI project (https://nefertiti-h2020.eu/), which has established an EU-wide network of demonstration and pilot farms designed to enhance knowledge exchanges on important issues of sustainable livestock systems; and (ii) the MIXED project (Multi-actor and transdisciplinary development of efficient and resilient MIXED farming and agroforestry-systems), dealing with methods that increase efficiency and resilience to climate change and reduce emissions (https://cordis.europa.eu/project/id/862357).
+In this context NADALL will as well connect with ongoing [H2020 projects](https://ec.europa.eu/programmes/horizon2020/en/h2020-sections-projects), where partners of this consortium are involved, like: (i) the NEFERTITI project (https://nefertiti-h2020.eu/), which has established an EU-wide network of demonstration and pilot farms designed to enhance knowledge exchanges on important issues of sustainable livestock systems; and (ii) the MIXED project (Multi-actor and transdisciplinary development of efficient and resilient MIXED farming and agroforestry-systems), dealing with methods that increase efficiency and resilience to climate change and reduce emissions (https://cordis.europa.eu/project/id/862357).
 
 ## Project Regions
 
@@ -57,8 +58,9 @@ In this context NADALL will as well connect with ongoing [H2020 projects] (https
 
 <p style='text-align: justify;'>Against this background it seems clear that a paradigm change is needed for more sustainable agricultural production systems in the region. Integrative agroecological frameworks based on territorial approaches are feasible alternatives for the needed transition. Agroecology principles and practices have long been recognized as an integrative framework for effective transition to sustainable food and agricultural systems. In this context, reducing or replacing external chemical inputs (e.g., synthetic fertilizers and pesticides) can be done by re-diversifying farming systems and with enhancing the delivery of ecosystem services. Crop diversity strategies (crop rotations and inclusion of nitrogen-fixing legumes) can directly increase the nitrogen pool in the soil, and reduce pest incidences. Crop livestock integration (CLI) besides reducing the risk of raising a single product, can reduce external fertilizer use through nutrient cycling, and support soil conservation practices that increased water retention capacities, resistance to soil erosion, and increase soil organic C (Bonaudo et al. 2014; Dumont and Bernués 2014; Dumont et al. 2013; FAO 2018; Vaarst et al. 2018; Wezel et al. 2009; Wezel et al. 2020).</p>
 
-----
-## <span style='color:#1768a6; font-size:100%; font-weight:800'>**Bibliography**</span> 
+- - -
+
+## <span style='color:#1768a6; font-size:100%; font-weight:800'>**Bibliography**</span>
 
 Annicchiarico, P.; Abdellaqui, Z.; Kelkouli, M.; Zerargui, H. (2005): Grain yield, straw yield and economic value of tall and semi-dwarf durum wheat cultivars in Algeria. In The Journal of Agricultural Science 143 (1), pp. 57–64. DOI: 10.1017/S0021859605004855. 
 

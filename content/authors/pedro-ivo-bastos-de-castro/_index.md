@@ -27,4 +27,4 @@ user_groups:
 <br />
 <br />
 <br />
-Pedro Ivo Bastos de Castro is a researcher and PhD candidate of ITT. He has specializations on farm land management, application of GIS and remote sensing in farmland management and development.
+Pedro Ivo Bastos de Castro is a researcher at ITT and a Ph.D. candidate at the University of Bonn. His PhD. research focuses on Land Use Land Cover Classification using Optical Images and modeling of causal relationships of Land Use Land Cover Changes. He is currently studying the causal chain of farmland abandonment in Rio De Janeiro, Brazil.

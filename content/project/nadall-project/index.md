@@ -31,9 +31,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## <span style='color:#1768a6'>Implementing Mediterranean <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs for sustainable transitions and enhanced resilience of small-holder production systems </span>
+## <span style='color:#1768a6'>Implementing Mediterranean 
+  <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs 
+  for sustainable transitions and enhanced resilience of small-holder production systems </span>
 
-{{% toc %}}
 <p style='text-align: justify;'>NADALL Project aims to contribute to a supported effective transition to agroecological intensified dairy farming systems and more sustainable food systems in the Mediterranean North African region.</p> 
 
 The project’s objective framework is in-line with most important international initiatives regarding the promotion of agroecology and sustainable transition pathways for more sustainable food systems. It is particularly in-line with the new EU “[Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en)” as the EU new growth strategy for a modern, resource-efficient and competitive economy, especially with the hereafter resulting EU strategies “[Farm to Fork](https://ec.europa.eu/food/horizontal-topics/farm-fork-strategy_en)” and “[Biodiversity 2030](https://ec.europa.eu/environment/strategy/biodiversity-strategy-2030_en)” that can be seen as lighthouse towards more fair, healthy and environmental-friendly food systems to protect nature and reverse environmental degradation.

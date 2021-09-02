@@ -16,4 +16,6 @@ hero_media: false
 
 FORRE´s Regional Food System approach advocates a paradigm change towards <span style='color:#1768a6'>**more sustainable agricultural production systems based on integrative agroecological frameworks**</span>, as promising alternatives for the needed transition. 
 
-The FORRE’s network’s work focuses as well on alternative more inclusive business models and markets for agroecological products. Markets where higher proportions of food are sourced over short supply chains, shorter geographical distances and direct contact with consumers. Most of all, <span style='color:#1768a6'>**solutions in which relationships between consumers and producers are stronger and more trustful**</span>. Solutions where food systems are thought of in an explicitly territorial context, impacting on issues of public importance in both urban and rural areas.
+The FORRE’s network’s work focuses as well on alternative more inclusive business models and markets for agroecological products. Markets where higher proportions of food are sourced over short supply chains, shorter geographical distances and direct contact with consumers. Most of all, <span style='color:#1768a6'>**solutions in which relationships between consumers and producers are stronger and more trustful**</span>. 
+
+Solutions where food systems are thought of in an explicitly territorial context, impacting on issues of public importance in both urban and rural areas.

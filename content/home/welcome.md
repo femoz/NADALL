@@ -12,7 +12,7 @@ design:
   columns: "3"
 hero_media: false
 ---
-<span style='color:#1768a6; font-size:75%; font-weight:600'>**FORRE**</span> <span style='font-size:75%;'>stands for</span> <span style='color:#1768a6; font-size:75%; font-weight:100'>_<u>**Fo**</u>rschung für <u>**R**</u>esiliente und Nachhaltige <u>**R**</u>egionale <u>**E**</u>rnährungssysteme_</span>, the Regional Sustainable Food Systems Research Group in English. FORRE is led by the Institute of Technology and Natural Resources Management in the Tropics and Subtropics from the TH Köln (Germany) and cooperates with research institutes from Algeria, Egypt, France, Portugal, and Morocco to promote high-impact research in Mediterranean countries.
+<span style='color:#1768a6; font-size:75%; font-weight:600'>**FORRE**</span> <span style='font-size:75%;'>stands for</span> <span style='color:#1768a6; font-size:75%; font-weight:100'>_<u>**Fo**</u>rschung für <u>**R**</u>esiliente und Nachhaltige <u>**R**</u>egionale <u>**E**</u>rnährungssysteme_</span>, <span style='font-size:75%;'>the Regional Sustainable Food Systems Research Group in English. FORRE is led by the Institute of Technology and Natural Resources Management in the Tropics and Subtropics from the TH Köln (Germany) and cooperates with research institutes from Algeria, Egypt, France, Portugal, and Morocco to promote high-impact research in Mediterranean countries.</span>
 
 <span style='font-size:75%;'>FORRE´s Regional Food System approach advocates a paradigm change towards <span style='color:#1768a6'>more sustainable agricultural production systems based on integrative agroecological frameworks</span>, as promising alternatives for the needed transition. </span>
 

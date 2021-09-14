@@ -33,4 +33,4 @@ In this context NADALL will as well connect with ongoing [H2020 projects](https:
 {{< list_children >}}
 
 
-{{< cta cta_text="Begin the course" cta_link="Regions" >}}
+{{< cta cta_text="Learn More" cta_link="Regions" >}}

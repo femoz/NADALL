@@ -18,6 +18,7 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
+<span style='color:#1768a6'>Implementing Mediterranean <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs for sustainable transitions and enhanced resilience of small-holder production systems </span>
 <br/>
 <p style='text-align: justify;'>NADALL Project aims to contribute to a supported effective transition to agroecological intensified dairy farming systems and more sustainable food systems in the Mediterranean North African region.</p> 
 
@@ -27,28 +28,9 @@ The objective’s framework of this project agrees with these strategies and sha
 
 In this context NADALL will as well connect with ongoing [H2020 projects](https://ec.europa.eu/programmes/horizon2020/en/h2020-sections-projects), where partners of this consortium are involved, like: (i) the NEFERTITI project (https://nefertiti-h2020.eu/), which has established an EU-wide network of demonstration and pilot farms designed to enhance knowledge exchanges on important issues of sustainable livestock systems; and (ii) the MIXED project (Multi-actor and transdisciplinary development of efficient and resilient MIXED farming and agroforestry-systems), dealing with methods that increase efficiency and resilience to climate change and reduce emissions (https://cordis.europa.eu/project/id/862357).
 
-## Project Regions
-
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
-
-## Research Objectives
-
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
-
-## Partners 
+## Content of the Project 
 
 {{< list_children >}}
 
-## FAQs
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
-
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Begin the course" cta_link="Project Regions" >}}

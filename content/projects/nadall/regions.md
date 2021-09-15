@@ -9,8 +9,6 @@ type: book
 
 {{< figure src="NADALL_map.jpg" >}}
 
-{{< figure src="/content/projects/nadall/NADALL_map.jpg" caption="NADALL Project regions" theme="light" >}}
+{{< figure src="/projects/nadall/NADALL_map.jpg" caption="NADALL Project regions" theme="light" >}}
 
-src="/icon/windows.svg">
-
-{{< figure src="/content/projects/nadall/NADALL_map.jpg" >}}
+{{< figure src="/projects/nadall/NADALL_map.jpg" >}}

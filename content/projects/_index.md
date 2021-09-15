@@ -1,5 +1,5 @@
 ---
-title: 📚 Projects
+title: Projects
 type: page
 
 header:
@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-Explore our projects below and expand your knowledge!
+Explore our projects!

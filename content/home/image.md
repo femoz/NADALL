@@ -4,9 +4,9 @@ advanced:
 widget: blank
 widget_id: "Closing widget "
 headless: true
-weight: 40
-title: null
-subtitle: null
+weight: 30
+title: 
+subtitle: 
 active: true
 design:
   columns: "1"
@@ -19,6 +19,4 @@ design:
     text_color_light: true
   spacing:
     ["20px", "0", "20px", "0"]
-advanced:
-  css_class: fullscreen
 ---

@@ -1,5 +1,5 @@
 ---
-title: 📊 NADALL
+title: NADALL
 linkTitle: NADALL
 summary: The group's main task is the PRIMA Section 2 Call multi-topics 2021. NADALL, the group's research project pre-proposal in the Mediterranean region, was recently selected for the second phase of the PRIMA Section 2 Call multi-topics 2021.
 date: '2021-08-24'

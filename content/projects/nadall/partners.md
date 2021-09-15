@@ -4,7 +4,6 @@ date: 2020-05-05
 type: book
 ---
 
-<span style='color:#1768a6; font-size:100%; font-weight:600'>**Project partners:**</span> 
 <!--more-->
 
 [<span style='color:#000000; font-size:100%; font-weight:300'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algeria. </span>](http://www.cread.dz/index.php/en/home-2/)

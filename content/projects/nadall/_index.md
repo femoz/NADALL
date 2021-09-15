@@ -16,14 +16,6 @@ authors:
 type: book
 ---
 
-{{< figure src="NADALL_map.jpg" caption="NADALL Project regions" theme="light" >}}
-
-{{< figure src="NADALL_map.jpg" >}}
-
-{{< figure src="featured.jpg" caption="NADALL Project regions" theme="light" >}}
-
-{{< figure src="featured.jpg" >}}
-
 {{< toc hide_on="xl" >}}
 
 <span style='color:#1768a6'>Implementing Mediterranean <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs for sustainable transitions and enhanced resilience of small-holder production systems </span>

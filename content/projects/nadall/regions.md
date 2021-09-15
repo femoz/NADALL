@@ -8,3 +8,7 @@ type: book
 {{< figure src="NADALL_map.jpg" caption="NADALL Project regions" theme="light" >}}
 
 {{< figure src="NADALL_map.jpg" >}}
+
+{{< figure src="featured.jpg" caption="NADALL Project regions" theme="light" >}}
+
+{{< figure src="featured.jpg" >}}

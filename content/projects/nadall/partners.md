@@ -1,5 +1,5 @@
 ---
-title: Project Partners 
+title: Partners 
 date: 2020-05-05
 type: book
 ---

@@ -15,9 +15,9 @@ In this framework, the specific objectives of the project are to:
 
 <p style='text-align: justify;'>The NADALL network will start its Co-research activities by concentrating on the following specific core research objectives:</p>
   
-  2.1	Characterize the dairy production systems and milksheds in the context of the three project regions;
-  2.2	Locally adapt promising agroecological practices in milk production systems for reducing or eliminating the usage of external synthetic inputs, enhancing the recycling potentials of renewable resources, and closing as far as possible resource cycles of nutrients and biomass and increase farms feed autonomy;
-  2.3	Develop innovative business models for connecting small producers and consumers informed on agroecological dairy products.
+   2.1	Characterize the dairy production systems and milksheds in the context of the three project regions;
+   2.2	Locally adapt promising agroecological practices in milk production systems for reducing or eliminating the usage of external synthetic inputs, enhancing the recycling potentials of renewable resources, and closing as far as possible resource cycles of nutrients and biomass and increase farms feed autonomy;
+   2.3	Develop innovative business models for connecting small producers and consumers informed on agroecological dairy products.
 
 3.	Implement a “Science-Policy-Society Interface (SPS-Interface)” in each DALL aiming at upscaling and outscaling results. Promotion is done though evidence about the benefits of agroecological practices and establishment of an enduring cooperation between academia, policy, and society, for participatory and informed policy-making and societal changes. 
   3.1	Upscale created evidence on the economic feasibility of the agroecological transition

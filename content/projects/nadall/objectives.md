@@ -1,5 +1,5 @@
 ---
-title: Research objetives
+title: Research Objetives
 date: 2021-05-05
 type: book
 weight: 10

@@ -1,5 +1,5 @@
 ---
-title: "Guillaume Duteurtre "
+title: "Guillaume Duteurtre"
 role: Researcher
 avatar_filename: ""
 social: []

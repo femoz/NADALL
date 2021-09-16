@@ -18,7 +18,7 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
-<span style='color:#1768a6'>Implementing Mediterranean <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs for sustainable transitions and enhanced resilience of small-holder production systems </span>
+<span style='color:#1768a6; font-size:150%'>Implementing Mediterranean <u>**N**</u>orth <u>**A**</u>frican <u>**D**</u>airy <u>**A**</u>groecological <u>**L**</u>iving <u>**L**</u>abs for sustainable transitions and enhanced resilience of small-holder production systems </span>
 <br/>
 <p style='text-align: justify;'>NADALL Project aims to contribute to a supported effective transition to agroecological intensified dairy farming systems and more sustainable food systems in the Mediterranean North African region.</p> 
 

@@ -11,6 +11,7 @@ type: book
 In this framework, the specific objectives of the project are to:	
 
 1.	 Implement a network of Mediterranean North African Dairy Agroecological Living Labs (NADALL), as a cooperative dairy innovation platform for sharing experiences and developing co-research and evidence on agroecological dairy farming systems, for effective transitions towards sustainable food systems.
+
 2.	Implement a “Co-research Hub” in each Dairy Agroecological Living Lab (DALL) connecting scientists with local selected farmers and extension officers and further stakeholders in designing, testing and validating promising agroecological practices, as well as connecting scientists and communities across the three countries of the project.
 
 <p style='text-align: justify;'>The NADALL network will start its Co-research activities by concentrating on the following specific core research objectives:</p>

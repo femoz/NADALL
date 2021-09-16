@@ -30,8 +30,6 @@ In this context NADALL will as well connect with ongoing [H2020 projects](https:
 
 ----
 
-</br>
-
 ## Content of the Project 
 
 {{< list_children >}}

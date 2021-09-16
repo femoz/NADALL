@@ -2,6 +2,7 @@
 title: Partners 
 date: 2020-05-05
 type: book
+weight: 50
 ---
 
 <!--more-->

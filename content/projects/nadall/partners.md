@@ -7,19 +7,19 @@ weight: 50
 
 <!--more-->
 
-[<span style='font-size:100%; font-weight:300'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algeria. </span>](http://www.cread.dz/index.php/en/home-2/)
+[<span style='font-size:300%; font-weight:300'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algeria. </span>](http://www.cread.dz/index.php/en/home-2/)
 
 {{% mention "messaoud-lazereg" %}}; Sabria Laribi; Kousseila Bellil.
 
 - - - -
 
-[<span style='color:green; font-size:100%; font-weight:300'>Animal Production Research Institute of the Agriculture Research Center (APRI-ARC), Egypt. </span>](http://www.arc.sci.eg/InstsLabs/Default.aspx?OrgID=7&lang=en) 
+[<span style='font-size:100%; font-weight:300'>Animal Production Research Institute of the Agriculture Research Center (APRI-ARC), Egypt. </span>](http://www.arc.sci.eg/InstsLabs/Default.aspx?OrgID=7&lang=en) 
 
 {{% mention "adel-aboul-naga" %}}; Faten Fahmy Mohamed Abou-Ammou; Neamah Raef Attalla; Mona Abdelzaher Ahmed Osman.
 
 - - - -
 
-[<span style='color:purple; font-size:100%; font-weight:300'>Agricultural Research Centre for International Development (CIRAD), France. </span>](https://www.cirad.fr/en)
+[<span style='font-size:100%; font-weight:300'>Agricultural Research Centre for International Development (CIRAD), France. </span>](https://www.cirad.fr/en)
 
 {{% mention "guillaume-duteurtre" %}}; Christian Corniaux; Eric Vall.
 

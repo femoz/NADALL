@@ -14,10 +14,10 @@ In this framework, the specific objectives of the project are to:
 </br>
 2.	Implement a “Co-research Hub” in each Dairy Agroecological Living Lab (DALL) connecting scientists with local selected farmers and extension officers and further stakeholders in designing, testing and validating promising agroecological practices, as well as connecting scientists and communities across the three countries of the project.</br>
 </br>
-    <p style='text-align: justify;'>The NADALL network will start its Co-research activities by concentrating on the following specific core research objectives:</p>
-</br>  
+    The NADALL network will start its Co-research activities by concentrating on the following specific core research objectives:
+    </br>  
     2.1	Characterize the dairy production systems and milksheds in the context of the three project regions;</br>
- </br>  
+    </br>  
     2.2	Locally adapt promising agroecological practices in milk production systems for reducing or eliminating the usage of external synthetic inputs, enhancing the recycling potentials of renewable resources, and closing as far as possible resource cycles of nutrients and biomass and increase farms feed autonomy;</br>
  </br>  
     2.3	Develop innovative business models for connecting small producers and consumers informed on agroecological dairy products.

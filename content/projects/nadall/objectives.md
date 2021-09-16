@@ -7,7 +7,7 @@ weight: 10
 
 <!--more-->
 
-<p style='text-align: justify;'>The overall objective of this project is to contribute to a supported effective transition to agroecological intensified dairy farming systems and more sustainable food systems in the Mediterranean North African region </p>
+<p style='text-align: justify;'>The overall objective of this project is to contribute to a supported effective transition to agroecological intensified dairy farming systems and more sustainable food systems in the Mediterranean North African region.</p>
 
 In this framework, the specific objectives of the project are to:	
 

@@ -7,7 +7,7 @@ weight: 50
 
 <!--more-->
 
-[<span style='font-size:300%; font-weight:300'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algeria. </span>](http://www.cread.dz/index.php/en/home-2/)
+[<span style='font-size:125%; font-weight:300'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algeria. </span>](http://www.cread.dz/index.php/en/home-2/)
 
 {{% mention "messaoud-lazereg" %}}; Sabria Laribi; Kousseila Bellil.
 

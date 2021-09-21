@@ -20,7 +20,7 @@ weight: 50
 
 [<span style='color:#000000; font-size:125%; font-weight:300'>Collectif TORBA, Algeria. </span>](https://torba.dz/)
 
-Karim RAHAL.
+Karim RAHAL. 
 
 </br>
 

@@ -12,6 +12,15 @@ weight: 50
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | <p style="text-align: center;"> {{% mention "messaoud-lazereg" %}}</p> | Sabria Laribi | Kousseila Bellil |
 
+Karim RAHAL.
+
+</br>
+
+- - - -
+
+</br>
+[<span style='color:#000000; font-size:125%; font-weight:300'>Collectif TORBA, Algeria. </span>](https://torba.dz/)
+
 </br>
 
 - - - -

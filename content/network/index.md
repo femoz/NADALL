@@ -14,6 +14,7 @@ image:
 
 [<span style='color:#000000; font-size:100%; font-weight:300'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algeria. </span>](http://www.cread.dz/index.php/en/home-2/)
 
+<img width="60%" src="https://forre.netlify.app/author/messaoud-lazereg/avatar_hu83d7d94eda490330d6059c686d0741e3_283467_270x270_fill_lanczos_center_2.png">
 {{% mention "messaoud-lazereg" %}}
 
 - - - -

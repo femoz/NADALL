@@ -17,7 +17,7 @@ image:
 
 {{% mention "messaoud-lazereg" %}}
 
-| <img width="40%" src="https://forre.netlify.app/author/messaoud-lazereg/avatar_hu83d7d94eda490330d6059c686d0741e3_283467_270x270_fill_lanczos_center_2.png"> |
+| <img width="60%" src="https://forre.netlify.app/author/messaoud-lazereg/avatar_hu83d7d94eda490330d6059c686d0741e3_283467_270x270_fill_lanczos_center_2.png"> |
 |-----------------------------------------------|
 | <p style="text-align: center;"> {{% mention "messaoud-lazereg" %}}</p> | 
 

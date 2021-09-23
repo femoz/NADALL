@@ -4,7 +4,7 @@ avatar_filename: avatar
 social:
   - display:
       header: false
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Saida-Boumakrat
     icon: linkedin
 organizations:

@@ -11,7 +11,7 @@ authors:
   - Hostiou N.
   - Safa A.
   - Bouhallab S. & Lortal S.
-doi: https://doi.org/10.20870/productions-animales.2019.32.3.2561
+doi: 10.20870/productions-animales.2019.32.3.2561
 publication: INRAE Productions Animales 32.
 abstract: The dairy sector is one of the pillars of global food security,
   despite its diversity among countries. This multidisciplinary review discusses

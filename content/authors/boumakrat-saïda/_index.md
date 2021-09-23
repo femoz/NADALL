@@ -1,7 +1,12 @@
 ---
 title: Boumakrat Saïda
 avatar_filename: avatar
-social: []
+social:
+  - display:
+      header: false
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Saida-Boumakrat
+    icon: linkedin
 organizations:
   - name: Institut Agronomique et Vétérinaire Hassan II (IAV)
     url: https://iav.ac.ma/

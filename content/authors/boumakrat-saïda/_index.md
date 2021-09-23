@@ -3,12 +3,12 @@ title: Boumakrat Saïda
 avatar_filename: avatar
 social:
   - display:
-      header: false
+      header: true
     icon_pack: fab
     link: https://www.researchgate.net/profile/Saida-Boumakrat
     icon: researchgate
   - display:
-      header: false
+      header: true
     link: https://iav.ac.ma/
     icon_pack: fab
     icon: Linkedin

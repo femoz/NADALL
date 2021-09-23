@@ -10,10 +10,10 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=1FXn6EEAAAAJ&hl=en
 - icon: Linkedin
-  icon_pack: fab
+  icon_pack: ai
   link: https://ma.linkedin.com/in/mohamed-taher-sra%C3%AFri-4a25a984
 - icon: Researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://ma.linkedin.com/in/mohamed-taher-sra%C3%AFri-4a25a984
 organizations:
   - name: "Institut Agronomique et Vétérinaire Hassan II, Rabat.    (IAV-Hassan

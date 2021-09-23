@@ -19,9 +19,10 @@ abstract: The dairy sector is one of the pillars of global food security,
   diversity), with a specific focus on developing countries.
 draft: false
 featured: false
+url_pdf: https://productions-animales.org/article/view/2561/13179
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-23T15:30:07.299Z
+date: 2019-09-04T15:30:07.299Z
 ---

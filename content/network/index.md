@@ -38,7 +38,7 @@ image:
 - - - -
 
 [<span style='color:#000000; font-size:100%; font-weight:300'>Institute for Technology and Resources Management in the Tropics and Subtropics (ITT- THK), Germany. </span>](https://www.tt.th-koeln.de/)
-| <img width="60%" src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png">  |    <img width="60%" src="https://forre.netlify.app/author/rui-pedroso/avatar_hu97ba24859de972366dccbdf55ddc4462_680273_270x270_fill_lanczos_center_2.png">  | <img width="60%" src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png"> |
+| <img width="60%" src="https://forre.netlify.app/author/sabine-schluter/avatar_hu670eb53ffb0defc1218476d87302f302_1023265_270x270_fill_lanczos_center_2.png">  |    <img width="60%" src="https://forre.netlify.app/author/rui-pedroso/aavatar_hubb2fc27af852c9043c78751519c47b1e_16060_270x270_fill_q75_lanczos_center.jpg">  | <img width="60%" src="https://forre.netlify.app/author/pedro-ivo-bastos-de-castro/avatar_huea5f78e0afe774bc42db53eb03f3433b_691262_270x270_fill_lanczos_center_2.png"> |
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | <p style="text-align: center;"> {{% mention "sabine-schluter" %}}</p> | <p style="text-align: center;"> {{% mention "admin" %}}</p>  | <p style="text-align: center;"> {{% mention "pedro-ivo-bastos-de-castro" %}}</p> |
 

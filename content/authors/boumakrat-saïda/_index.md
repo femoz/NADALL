@@ -6,7 +6,7 @@ social:
       header: false
     icon_pack: fab
     link: https://www.researchgate.net/profile/Saida-Boumakrat
-    icon: linkedin
+    icon: researchgate
 organizations:
   - name: Institut Agronomique et Vétérinaire Hassan II (IAV)
     url: https://iav.ac.ma/

@@ -3,7 +3,7 @@ title: "Sustainability of dairy development: reflections on a few cases in the w
 publication_types:
   - "2"
 authors:
-  - mohamed-taher-sraïri
+  - mohamed-taher-srairi
   - Chatellier V.
   - Corniaux C.
   - Faye B.
@@ -12,7 +12,7 @@ authors:
   - Safa A.
   - Bouhallab S. & Lortal S.
 doi: ""
-publication: INRAE Productions Animales.
+publication: INRAE Productions Animales 32.
 draft: false
 featured: false
 image:

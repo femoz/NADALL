@@ -35,9 +35,10 @@ abstract: 'The Mediterranean basin has faced important changes in its
   South Mediterranean.'
 draft: false
 featured: false
+url_pdf: http://elvulmed.cirad.fr/FichiersComplementaires/Atlas_Egypt_Ver-8.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T09:55:54.582Z
+date: 2014-01-01T09:55:54.582Z
 ---

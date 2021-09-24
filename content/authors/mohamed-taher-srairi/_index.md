@@ -1,6 +1,8 @@
 ---
-title: Mohamed Taher Sraïri
+title: "Mohamed Taher Sraïri"
 role: Researcher
+authors:
+  - Mohamed Taher Sraïri
 avatar_filename: avatar
 social:
 - icon: envelope

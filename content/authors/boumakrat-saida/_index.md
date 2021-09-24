@@ -1,6 +1,6 @@
 ---
 title: "Boumakrat Saïda"
-role: Researcher
+role: "IAV - Morocco"
 avatar_filename: avatar
 authors:
   - Boumakrat Saïda

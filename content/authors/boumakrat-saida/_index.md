@@ -1,6 +1,8 @@
 ---
-title: Boumakrat Saïda
+title: "Boumakrat Saïda"
 avatar_filename: avatar
+authors:
+  - Boumakrat Saïda
 social:
   - display:
       header: false

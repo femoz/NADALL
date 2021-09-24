@@ -11,7 +11,7 @@ authors:
 publication: Eleventh International Dryland Development Conference, 18-21 March
   2013, Beijing, China
 abstract: >-
-  he coastal area of Western Desert of Egypt is a hot dry area with less than150
+  The coastal area of Western Desert of Egypt is a hot dry area with less than150
   mm rain- fall and more than370C temperatures in summer. Raising livestock,
   especially sheep and goats, is historically the main socioeconomic activity
   for the local communities (Bedouin). The area, however, has witnessed major

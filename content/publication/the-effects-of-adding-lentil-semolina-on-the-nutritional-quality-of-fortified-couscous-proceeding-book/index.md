@@ -41,11 +41,12 @@ abstract: Couscous is a traditional dish for Moroccan population, based on wheat
   technological value of fortified conventional Moroccan couscous.
 draft: false
 featured: false
+url_pdf: https://www.researchgate.net/profile/Hamid-El-Bilali/publication/330909869_The_effects_of_adding_lentil_semolina_on_the_nutritional_quality_of_fortified_couscous/links/5c5af2cf92851c48a9beab32/The-effects-of-adding-lentil-semolina-on-the-nutritional-quality-of-fortified-couscous.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T06:54:44.606Z
+date: 2018-10-04T06:54:44.606Z
 ---
 <!--StartFragment-->
 

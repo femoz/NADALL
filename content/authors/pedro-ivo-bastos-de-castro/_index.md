@@ -7,7 +7,7 @@ superuser: false
 authors:
   - Pedro Ivo Bastos de Castro
 title: Pedro Ivo Bastos de Castro
-role: Research coordinator
+role: ITT - Germany
 bio: ""
 interests: []
 social:

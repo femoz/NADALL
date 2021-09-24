@@ -1,6 +1,6 @@
 ---
 title: Faten Fahmy Mohamed Abou-Ammou
-role: Researcher
+role: "APRI-ARC - Morocco"
 avatar_filename: avatar
 social:
 - icon: envelope

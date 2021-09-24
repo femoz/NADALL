@@ -25,9 +25,10 @@ abstract: The Mediterranean dietary patterns comply better with recommended
   diets model.
 draft: false
 featured: false
+url_pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E032022E7C79F3073C50FA2678D53466/S0029665117001033a.pdf/mediterranean-food-consumption-patterns-low-environmental-impacts-and-significant-healthnutrition-benefits.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T06:47:34.602Z
+date: 2017-06-29T06:47:34.602Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: M'hand Fares
-role: Researcher
+role: "INRAE - France"
 avatar_filename: ""
 social: []
 organizations:

@@ -1,6 +1,6 @@
 ---
 title: "Guillaume Duteurtre"
-role: Researcher
+role: "CIRAD - France"
 avatar_filename: ""
 social: []
 organizations:

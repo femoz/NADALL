@@ -3,6 +3,11 @@ title: Contribution of livestock to the livelihood of local  communities at
   different agro-ecological zones in the coastal area of Western Desert in Egypt
 publication_types:
   - "1"
+authors:
+  - Adel Aboul Naga
+  - Véronique Alary
+  - Mona Abdelzaher Ahmed Osman
+  - Jean-François Tourrand 
 publication: Eleventh International Dryland Development Conference, 18-21 March
   2013, Beijing, China
 abstract: >-
@@ -23,9 +28,10 @@ abstract: >-
   Livestock contribution to the total income of the local community in the rain-fed area differed significantly with flock size; being 28.4% for small breeder, 43.7% for the medium ones and 80.0% for the large breeders, mainly from sheep and goats. In the newly reclaimed lands, it was related to farm size 57.6% for small farms (2 acres) to 70% for large farms (2 acres). Source of income in the desert oasis was very diversified, livestock contribute to the total income of the local community there. Off-farm activities contributed significantly to the family income of the oasis community, and to the smaIl-holders in the rain-fed area while it was minor for medium and large breeders, and in the reclaimed area. Crops (mainly cereals)and fruit trees contributed highly to the income of oases communities, and moderately the small and medium size breeders in the rain-fed and reclaimed land. The breeders' flock contributed significantly to the nutritional status of their families in the three zones, through high domestic consumption for meat and milk. 
 draft: false
 featured: false
+url_pdf: http://agritrop.cirad.fr/569868/1/document_569868.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T09:19:06.780Z
+date: 2013-03-18T09:19:06.780Z
 ---

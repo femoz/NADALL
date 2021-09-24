@@ -1,6 +1,6 @@
 ---
 title:  Sabria Laribi 
-role: Researcher
+role: "CREAD - Algeria"
 avatar_filename: avatar
 social:
 - icon: envelope

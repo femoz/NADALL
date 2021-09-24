@@ -1,5 +1,6 @@
 ---
 title: "Boumakrat Saïda"
+role: Researcher
 avatar_filename: avatar
 authors:
   - Boumakrat Saïda

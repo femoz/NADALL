@@ -1,6 +1,6 @@
 ---
 title: Luis Filipe Sanches Goulao
-role: Researcher
+role: "ISA - Portugal" 
 avatar_filename: ""
 social: []
 organizations:

@@ -1,14 +1,14 @@
 ---
 title: Biophysical and economic water productivity of dual-purpose cattle farming
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Mohamed Taher Sraïri
   - R. Benjelloun
   - M. Karrou
   - S. Ates  and M. Kuper
 doi: 10.1017/S1751731115002360
-publication: Animal, 10(2), 283-291
+publication: Animal, 10(2), 283-291.
 abstract: "This study analyzes key factors influencing water productivity in
   cattle rearing, particularly in contexts characterized by water scarcity. This
   was done through year-round monitoring of on-farm practices within five
@@ -44,5 +44,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T05:20:03.982Z
+date: 2015-11-05T05:20:03.982Z
 ---

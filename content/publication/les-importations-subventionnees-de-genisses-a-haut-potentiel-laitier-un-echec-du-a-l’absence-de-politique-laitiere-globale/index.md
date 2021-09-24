@@ -21,9 +21,10 @@ abstract: L’Algérie a adopté depuis les années soixante des politiques
   fraîche, qu'un faible droit de douane.
 draft: false
 featured: false
+url_pdf: https://www.ajol.info/index.php/cread/article/view/124730/114247
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T08:10:19.665Z
+date: 2012-01-01T08:10:19.665Z
 ---

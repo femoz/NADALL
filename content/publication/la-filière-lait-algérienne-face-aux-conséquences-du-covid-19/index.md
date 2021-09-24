@@ -23,9 +23,10 @@ abstract: The COVID-19 health crisis prompted some governments to modify their
   of crises
 draft: false
 featured: false
+url_pdf: https://www.ajol.info/index.php/cread/article/view/202202/190651
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T07:27:29.058Z
+date: 2020-07-17T07:27:29.058Z
 ---

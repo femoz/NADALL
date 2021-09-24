@@ -22,9 +22,10 @@ abstract: Approximately 70 % of the world population is lactose intolerant,
   will be necessary to strengthen these results.
 draft: false
 featured: false
+url_pdf: http://www.foodsciencejournal.com/download/154/2-3-29-482.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T06:40:42.745Z
+date: 2017-05-01T06:40:42.745Z
 ---

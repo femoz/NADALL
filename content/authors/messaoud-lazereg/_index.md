@@ -2,7 +2,19 @@
 title: Messaoud Lazereg
 role: Researcher
 avatar_filename: avatar
-social: []
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:m.lazereg@cread.dz'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=R_inF60AAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/messaoud-lazereg-a8235619/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Messaoud-Lazereg
 organizations:
   - name: "Centre de Recherche en Économie Appliquée pour le    Développement
       (CREAD) "

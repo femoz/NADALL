@@ -1,7 +1,6 @@
 ---
 title: Rui Pedroso
-role: "Scientific Coordinator
-ITT - Germany"
+role: "Scientific Coordinator<br />ITT - Germany"
 bio: []
 interests: []
 social:

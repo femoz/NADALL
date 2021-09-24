@@ -9,7 +9,7 @@ authors:
   - Mohamed Taher Sraïri
   - Jos Bijman
 doi: 10.18461/ijfsd.v8i3.835
-publication: International Journal on Food Systems Dynamics. 8, 236-249.
+publication: International Journal on Food Systems Dynamics. 8(3), 236-249.
 publication_short: Int. J. Food System Dynamics
 abstract: Marketing cooperatives in developing and transition countries face
   challenges when they aim to strengthen their competitiveness. One of these
@@ -30,9 +30,10 @@ abstract: Marketing cooperatives in developing and transition countries face
   and their cooperatives.
 draft: false
 featured: false
+url_pdf: http://centmapress.ilb.uni-bonn.de/ojs/index.php/fsd/article/download/835/720
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T05:11:30.494Z
+date: 2017-06-01T05:11:30.494Z
 ---

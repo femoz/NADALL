@@ -5,8 +5,8 @@ title: Impact of organization in cooperatives on the economic performance of
 publication_types:
   - "2"
 authors:
-  - Kousseila Bellil
-  - Moussa Boukrif
+  - Bellil Kousseila
+  - Boukrif Moussa
 publication: Journal of Financial, Accounting and Managerial studies, 4(1), 55-69.
 abstract: Since independence, several development plans have been made to
   promote the milk sector in Algeria. The current conjecture, characterized by a
@@ -23,5 +23,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-04-06T07:32:14.769Z
+date: 2017-04-06T07:32:14.769Z
 ---

@@ -4,7 +4,7 @@ subtitle: Chapter 11
 publication_types:
   - "6"
 authors:
-  - YoussefAboussaleh
+  - Youssef Aboussaleh
   - Hamid El Bilali
   - Francesco Bottalico
   - Gianluigi Cardone

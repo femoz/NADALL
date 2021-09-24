@@ -2,7 +2,19 @@
 title: Youssef Aboussaleh
 role: Researcher
 avatar_filename: avatar
-social: []
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:youssef.aboussaleh@uit.ac.ma'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=wlpNvD8AAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/youssef-aboussaleh-3533061a7/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Youssef-Aboussaleh
 organizations:
   - name: "Ibn Tofail University (UIT), Kénitra, Faculté of Sciences, Department of
       Biology, Laboratory of Nutrition, Health and Environnement "

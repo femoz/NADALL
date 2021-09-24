@@ -38,9 +38,10 @@ abstract: "The Mediterranean agriculture is constrained by high competition for
   decisions."
 draft: false
 featured: false
+url_pdf: https://revues.cirad.fr/index.php/REMVT/article/view/31941/31560
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T11:04:40.158Z
+date: 2020-11-25T11:04:40.158Z
 ---

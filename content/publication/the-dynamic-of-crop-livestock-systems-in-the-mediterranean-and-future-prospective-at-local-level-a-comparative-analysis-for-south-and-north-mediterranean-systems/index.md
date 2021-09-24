@@ -11,7 +11,7 @@ authors:
   - Adel Aboul Naga
   - Mohamed Taher Sraïri
 doi: 10.1016/j.livsci.2019.03.017
-publication: Livestock Science Volume 224
+publication: Livestock Science, (224), 40-49.
 abstract: "Mediterranean livestock farming systems have evolved to adapt to
   current and future pressures, including strong demographic growth and
   urbanization in the coastal zone, greater competition for land and water, and
@@ -46,5 +46,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T04:29:33.713Z
+date: 2019-06-01T04:29:33.713Z
 ---

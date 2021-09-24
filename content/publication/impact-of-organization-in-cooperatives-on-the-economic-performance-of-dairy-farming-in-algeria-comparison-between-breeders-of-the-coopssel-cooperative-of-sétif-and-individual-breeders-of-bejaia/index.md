@@ -7,7 +7,6 @@ publication_types:
 authors:
   - Bellil Kousseila
   - Boukrif Moussa
-  - ""
 publication: Journal of Financial, Accounting and Managerial studies, 4(1), 55-69.
 abstract: Since independence, several development plans have been made to
   promote the milk sector in Algeria. The current conjecture, characterized by a
@@ -19,9 +18,10 @@ abstract: Since independence, several development plans have been made to
   meet all these conveniences.
 draft: false
 featured: false
+url_pdf: https://www.asjp.cerist.dz/en/downArticle/58/4/1/21998
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T07:32:14.769Z
+date: 2021-04-06T07:32:14.769Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: Neamah Raef Attalla
-role: Researcher
+role: "APRI-ARC - Egypt"
 avatar_filename: avatar
 social:
 - icon: address-card

@@ -11,7 +11,7 @@ authors:
   - Nathalie Hostiou
   - Duy Khanh Pham
   - Gérard Servière
-  - Mohammed Taher Sraïri
+  - Mohamed Taher Sraïri
   - Amélie Turlot
   - Benoît Dedieu
 doi: 10.1007/s13593-018-0534-2

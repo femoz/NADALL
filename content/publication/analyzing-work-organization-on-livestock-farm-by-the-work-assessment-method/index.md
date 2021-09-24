@@ -1,7 +1,7 @@
 ---
 title: Analyzing work organization on livestock farm by the Work Assessment Method
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Sylvie Cournut
   - Sophie Chauvat
@@ -43,9 +43,10 @@ abstract: "All over the world, farmers have to face up to increasing
   into account the evolutions of livestock farming systems."
 draft: false
 featured: false
+url_pdf: https://link.springer.com/content/pdf/10.1007/s13593-018-0534-2.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T04:56:59.284Z
+date: 2018-10-23T04:56:59.284Z
 ---

@@ -16,7 +16,7 @@ social:
   link: https://ma.linkedin.com/in/mohamed-taher-sra%C3%AFri-4a25a984
 - icon: researchgate
   icon_pack: fab
-  link: https://ma.linkedin.com/in/mohamed-taher-sra%C3%AFri-4a25a984
+  link: https://www.researchgate.net/profile/Mohamed-Taher-Srairi
 organizations:
   - name: "Institut Agronomique et Vétérinaire Hassan II, Rabat.    (IAV-Hassan
       II)   "

@@ -6,6 +6,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:m.lazereg@cread.dz'
+- icon: address-card
+  icon_pack: fas
+  link: http://www.cread.dz/index.php/cv-messaoud-lazereg/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=R_inF60AAAAJ&hl=en

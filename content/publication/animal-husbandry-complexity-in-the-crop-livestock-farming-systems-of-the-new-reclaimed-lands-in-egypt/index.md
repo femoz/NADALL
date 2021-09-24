@@ -38,11 +38,12 @@ abstract: "In Egypt, the New Reclaimed Lands (NRL) are desert lands that
   management, and the little attractiveness of agriculture to young people."
 draft: false
 featured: false
+url_pdf: https://revues.cirad.fr/index.php/REMVT/article/view/20562/20319
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T10:10:50.171Z
+date: 2015-10-02T10:10:50.171Z
 ---
 <!--StartFragment-->
 

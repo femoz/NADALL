@@ -1,6 +1,6 @@
 ---
 title: Youssef Aboussaleh
-role: Researcher
+role: "UIT - Morocco"
 avatar_filename: avatar
 social:
 - icon: envelope

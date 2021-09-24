@@ -1,6 +1,6 @@
 ---
 title: "Mohamed Taher Sraïri"
-role: Researcher
+role: "IAV - Morocco"
 authors:
   - Mohamed Taher Sraïri
 avatar_filename: avatar

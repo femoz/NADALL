@@ -1,6 +1,6 @@
 ---
 title: Adel Aboul Naga
-role: Researcher
+role: "APRI-ARC - Egypt"
 avatar_filename: avatar
 social:
 - icon: envelope

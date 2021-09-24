@@ -2,7 +2,10 @@
 title: Adel Aboul Naga
 role: Researcher
 avatar_filename: avatar
-social: []
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:adelmaboulnaga@hotmail.com'
 organizations:
   - name: Animal Production Research Institute of the Agriculture Research Center,
       Giza, Egypt    (APRI-ARC)

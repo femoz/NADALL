@@ -5,18 +5,18 @@ ITT - Germany"
 bio: []
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:rui.pedroso@th-koeln.de
-  - icon: address-card
-    icon_pack: fas
-    link: http://139.162.49.210:8282/f07ee45bd707807c4c4e22c77998fd621d36cf29/f2a68c528bea2aa30b6d0d36e265cc47d80e19c4.html
-   - icon: linkedin
-    icon_pack: fab
-    link: https://de.linkedin.com/in/rui-pedroso-4769755
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Rui-Pedroso
+- icon: envelope
+  icon_pack: fas
+  link: mailto:rui.pedroso@th-koeln.de
+- icon: address-card
+  icon_pack: fas
+  link: http://139.162.49.210:8282/f07ee45bd707807c4c4e22c77998fd621d36cf29/f2a68c528bea2aa30b6d0d36e265cc47d80e19c4.html
+- icon: linkedin
+  icon_pack: fab
+  link: https://de.linkedin.com/in/rui-pedroso-4769755
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Rui-Pedroso
 organizations:
   - name: "Institute for Technology and Resources Management in the Tropics and
       Subtropics / TH Köln - University of Applied Sciences "

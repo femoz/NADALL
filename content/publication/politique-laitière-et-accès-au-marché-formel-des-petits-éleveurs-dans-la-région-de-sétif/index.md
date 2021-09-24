@@ -20,9 +20,10 @@ abstract: The dairy subsidy policy (for production, collection, and processing)
   influence on the choices of dairy farmers.
 draft: false
 featured: false
+url_pdf: https://www.ajol.info/index.php/cread/article/view/201562/190083
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-24T07:18:52.320Z
+date: 2020-11-11T07:18:52.320Z
 ---

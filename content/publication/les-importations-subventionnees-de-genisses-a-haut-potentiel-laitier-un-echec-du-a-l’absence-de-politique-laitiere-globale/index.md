@@ -1,6 +1,6 @@
 ---
-title: "Les importations subventionnees de genisses a haut potentiel laitier :
-  Un echec du a l’absence de politique laitiere globale"
+title: Les importations subventionnees de genisses a haut potentiel laitier
+subtitle: Un echec du a l’absence de politique laitiere globale
 publication_types:
   - "2"
 authors:

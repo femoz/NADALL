@@ -10,7 +10,7 @@ weight: 50
 [<span style='color:#000000; font-size:125%; font-weight:300'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD), Algeria. </span>](http://www.cread.dz/index.php/en/home-2/)
 | <img width="60%" src="https://forre.netlify.app/author/messaoud-lazereg/avatar_hu83d7d94eda490330d6059c686d0741e3_283467_270x270_fill_lanczos_center_2.png"> |  |  | 
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| <p style="text-align: center;"> {{% mention "messaoud-lazereg" %}}</p> | Sabria Laribi | Kousseila Bellil |
+| <p style="text-align: center;"> {{% mention "messaoud-lazereg" %}}</p> | <p style="text-align: center;"> {{% mention "sabria-laribi" %}}</p> | <p style="text-align: center;"> {{% mention "kousseila-bellil" %}}</p> |
 
 </br>
 
@@ -30,7 +30,7 @@ Karim Rahal.
 
 [<span style='color:#000000; font-size:125%; font-weight:300'>Animal Production Research Institute of the Agriculture Research Center (APRI-ARC), Egypt. </span>](http://www.arc.sci.eg/InstsLabs/Default.aspx?OrgID=7&lang=en) 
 
-{{% mention "adel-aboul-naga" %}}; Faten Fahmy Mohamed Abou-Ammou; Neamah Raef Attalla; Mona Abdelzaher Ahmed Osman.
+{{% mention "adel-aboul-naga" %}}; {{% mention "faten-fahmy-mohamed-abou-ammou" %}}; {{% mention "neamah-raef-attalla" %}}; {{% mention "mona-abdelzaher-ahmed-osman" %}}.
 
 </br>
 
@@ -71,7 +71,7 @@ Karim Rahal.
 
 [<span style='color:#000000; font-size:125%; font-weight:300'>Ibn Tofail University (UIT), Kénitra, Faculté of Sciences, Departement of Biology, Laboratory of Biology and Health, Morocco. </span>](https://fs.uit.ac.ma/biologie/)
 
-{{% mention "youssef-aboussaleh" %}}; Abdellatif Bour; Meryem Messala. 
+{{% mention "youssef-aboussaleh" %}}; {{% mention "abdellatif-bour" %}}; {{% mention "rajae-youssoufi" %}}. 
 
 </br>
 
@@ -81,7 +81,7 @@ Karim Rahal.
 
 [<span style='color:#000000; font-size:125%; font-weight:300'>Institut Agronomique et Vétérinaire Hassan II (IAV), Morocco. </span>](https://iav.ac.ma/) 
 
-{{% mention "mohamed-taher-sraïri" %}}; Boumakrat Saïda. 
+{{% mention "mohamed-taher-sraïri" %}}; {{% mention "boumakrat-saida" %}}. 
 
 </br>
 

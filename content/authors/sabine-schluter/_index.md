@@ -1,6 +1,6 @@
 ---
-title: "Sabine Schlüter   "
-role: Project coordinator
+title: "Sabine Schlüter"
+role: "Project Leader <br /> ITT - Germany"
 authors:
   - Sabine Schlüter
   - Sabine Schlueter

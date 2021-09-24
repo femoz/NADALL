@@ -1,6 +1,6 @@
 ---
 title: Mona Abdelzaher Ahmed Osman
-role: Researcher
+role: "APRI-ARC - Egypt"
 avatar_filename: avatar
 social:
 - icon: envelope

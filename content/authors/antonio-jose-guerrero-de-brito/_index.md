@@ -24,6 +24,7 @@ organizations:
 superuser: false
 user_groups:
   - ISA
+  - Researchers
 ---
 <br />
 <br />

@@ -8,6 +8,7 @@ organizations:
     url: https://www.isa.ulisboa.pt/en/presentation/isa-school-of-agriculture
 superuser: false
 user_groups:
+  - ISA
   - Researchers
 ---
 <br />

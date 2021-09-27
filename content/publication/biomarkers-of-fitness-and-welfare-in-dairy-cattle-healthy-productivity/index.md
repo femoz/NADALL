@@ -28,9 +28,10 @@ abstract: Milk production intensification has led to several unwanted aspects,
   production-related diseases and decreased fertility.
 draft: false
 featured: false
+url_pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4DDBED14C9DE77571E6A535BA40A1E1D/S0022029920000084a.pdf/biomarkers-of-fitness-and-welfare-in-dairy-cattle-healthy-productivity.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-27T14:57:45.073Z
+date: 2020-03-02T14:57:45.073Z
 ---

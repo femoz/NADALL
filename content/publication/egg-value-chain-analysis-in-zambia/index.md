@@ -13,11 +13,12 @@ doi: ""
 publication: Value Chain  Analysis for Development Project  (VCA4D CTR 2016/375-804)
 draft: false
 featured: false
+url_pdf: https://europa.eu/cc5d1608-34d4-4f2b-91a3-d70fb414a1c7
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-27T15:07:03.659Z
+date: 2018-08-01T15:07:03.659Z
 ---
 <!--StartFragment-->
 

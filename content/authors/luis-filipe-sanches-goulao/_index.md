@@ -1,8 +1,14 @@
 ---
-title: Luis Filipe Sanches Goulao
+title: Luís Filipe Sanches Goulão
 role: "ISA - Portugal" 
 avatar_filename: ""
-social: []
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:goulao@isa.ulisboa.pt'
+- icon: address-card
+  icon_pack: fas
+  link: http://www.isa.ulisboa.pt/id/goulao
 organizations:
   - name: School of Agriculture - University of Lisbon
     url: https://www.isa.ulisboa.pt/en/presentation/isa-school-of-agriculture

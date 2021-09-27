@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Gideon E Onumah
   - Alistair Sutherland
-  - António José Guerreiro de Brito
+  - antonio-jose-guerrero-de-brito
   - Antony Chapoto
   - Helena Farrall
 doi: ""

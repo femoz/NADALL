@@ -16,7 +16,7 @@ author_notes:
   - Harry Archimède
 doi: 10.1007/s11250- 020-02537-7
 publication: Tropical Animal Health and Production, 53(1),111.
-publication_short: "Trop Anim Health Prod. "
+publication_short: "Trop Anim Health Prod. 53(1),111."
 abstract: "With global climate changes currently occurring, and particularly
   given the severe energy and food shortages occurring throughout tropical
   regions, agroecological (AE) systems are drawing renewed attention as an
@@ -52,5 +52,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-27T14:32:50.559Z
+date: 2021-01-11T14:32:50.559Z
 ---

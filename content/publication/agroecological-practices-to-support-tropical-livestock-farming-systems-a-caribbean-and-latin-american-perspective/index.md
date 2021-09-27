@@ -14,7 +14,7 @@ authors:
   - Audrey Fanchone
   - Jean-Luc Gourdine
   - Harry Archimède
-doi: 10.1007/s11250- 020-02537-7
+doi: 10.1007/s11250-020-02537-7
 publication: Tropical Animal Health and Production, 53(1),111.
 publication_short: "Trop Anim Health Prod. 53(1),111."
 abstract: "With global climate changes currently occurring, and particularly

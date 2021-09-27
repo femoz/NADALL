@@ -3,6 +3,9 @@ title: Partners
 date: 2020-05-05
 type: book
 weight: 50
+user_groups:
+  - ISA
+
 ---
 
 <!--more-->
@@ -92,14 +95,6 @@ Karim Rahal.
 [<span style='color:#000000; font-size:125%; font-weight:300'>Portugal, University of Lisbon, School of Agriculture, Centre Linking Landscape, Environment, Agriculture and Food (ISA).</span>](https://www.isa.ulisboa.pt/en/leaf/presentation)
 
 {{% mention "luis-filipe-sanches-goulao" %}}; António José Guerreiro de Brito; Catarina Paula Guerra Geoffroy Prista; Luis Manuel Bignolas Mira da Silva; 
-
-{{% mention "isa" %}}
-
----
-content:
-  user_groups:
-    - ISA
----
 
 </br>
 

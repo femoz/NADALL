@@ -93,6 +93,14 @@ Karim Rahal.
 
 {{% mention "luis-filipe-sanches-goulao" %}}; António José Guerreiro de Brito; Catarina Paula Guerra Geoffroy Prista; Luis Manuel Bignolas Mira da Silva; 
 
+{{% mention "isa" %}}
+
+---
+content:
+  user_groups:
+    - ISA
+---
+
 </br>
 
 - - - -

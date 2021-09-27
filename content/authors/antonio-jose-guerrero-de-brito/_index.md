@@ -1,5 +1,5 @@
 ---
-title: António José Guerreiro de Brito
+title: "António José Guerreiro de Brito"
 role: "ISA - Portugal"
 avatar_filename: avatar
 social:

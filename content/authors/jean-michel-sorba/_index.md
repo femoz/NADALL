@@ -6,9 +6,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jean-michel.sorbaf@inrae.fr.'
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/jean-paul-dubeuf-77820635/
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Jean-Sorba-2

@@ -1,5 +1,5 @@
 ---
-title: "Jean Christophe Paoli"
+title: "Jean-Christophe Paoli"
 role: "INRAE - France"
 avatar_filename: ""
 social:

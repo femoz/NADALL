@@ -8,7 +8,7 @@ authors:
   - Linck Thierry
   - Said Chatibi
 doi: 10.19182/agritrop/00143
-publication: Livestock Policy
+publication: Livestock Policy, 124-133
 abstract: The historical context of public policies in Morocco introduces the
   analysis of the public projects in the argane tree area in Morocco. The study
   is devoted mainly to pastoral and livestock components of these policies. The
@@ -41,9 +41,11 @@ abstract: The historical context of public policies in Morocco introduces the
   improve the effectiveness of these policies.
 draft: false
 featured: false
+url_pdf: https://agritrop.cirad.fr/597287/1/LIVESTOCK_POLICY.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2021-09-28T15:10:57.311Z
 ---
+In: Tourrand et al. (Coord.), Livestock Policy. CIRAD, Montpellier, France

@@ -8,7 +8,8 @@ authors:
   - Ioannis Hadjigeorgiou
   - Anne Lauvie
   - Charles-Henri Moulin
-  - Jean-Christophe Paoli & Christina Ligda
+  - Jean-Christophe Paoli
+  - Christina Ligda
 doi: 10.1007/s11250-018-1688-2
 publication: Tropical Animal Health and Production, 51, 329–338.
 publication_short: Trop Anim Health Prod, 51, 329–338.
@@ -45,5 +46,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-28T15:22:08.064Z
+date: 2018-08-24T15:22:08.064Z
 ---

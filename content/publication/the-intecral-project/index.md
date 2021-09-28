@@ -8,7 +8,7 @@ authors:
   - Dietmar Sattler
   - Claudia Raedig
 doi: 10.1007/978-3-319-89644-1_4
-publication: Strategies and Tools for a Sustainable Rural Rio de Janeiro pp 41-49
+publication: Strategies and Tools for a Sustainable Rural Rio de Janeiro, 41-49.
 abstract: >+
   **INTECRAL** (Integrated Eco Technologies and Services for a Sustainable Rural
   Rio de Janeiro) is a German-Brazilian research project (2013–2017) funded by
@@ -29,9 +29,11 @@ abstract: >+
 
 draft: false
 featured: false
+url_pdf: https://link.springer.com/content/pdf/10.1007%2F978-3-319-89644-1.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2018-08-17T06:23:23.224Z
 ---
+In: Nehren U., Schlϋter S., Raedig C., Sattler D., Hissa H. (eds) Strategies and Tools for a Sustainable Rural Rio de Janeiro. Springer Series on Environmental Management. Springer, Cham. https://doi.org/10.1007/978-3-319-89644-1_4

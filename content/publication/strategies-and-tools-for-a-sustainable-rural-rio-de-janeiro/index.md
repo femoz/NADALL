@@ -4,7 +4,7 @@ publication_types:
   - "5"
 authors:
   - Udo Nehren
-  - Sabine Schlϋter
+  - sabine-schluter
   - Claudia Raedig
   - Dietmar Sattler
   - Helga Hissa

@@ -35,7 +35,7 @@ abstract: The aim of this study was to suggest a methodology to characterize the
   the season.
 draft: false
 featured: false
-url_pdf:http://www.journalijar.com/uploads/174_IJAR-9163.pdf
+url_pdf: http://www.journalijar.com/uploads/174_IJAR-9163.pdf
 image:
   filename: featured
   focal_point: Smart

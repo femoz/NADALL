@@ -2,9 +2,21 @@
 title: "Guillaume Duteurtre"
 role: "CIRAD - France"
 avatar_filename: ""
-social: []
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:guillaume.duteurtre@cirad.fr'
+- icon: address-card
+  icon_pack: fas
+  link: http://agents.cirad.fr/index.php/Guillaume+DUTEURTRE
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/guillaume-duteurtre-026bb014/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Duteurtre-Guillaume
 organizations:
-  - name: "Agricultural Research Centre for International Development (CIRAD) "
+  - name: "Agricultural Research Centre for International Development (CIRAD)"
     url: https://www.cirad.fr/en
 superuser: false
 user_groups:

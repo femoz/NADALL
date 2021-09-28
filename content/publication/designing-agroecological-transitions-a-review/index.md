@@ -36,9 +36,10 @@ abstract: "Concerns about the negative impacts of productivist agriculture have
   systems designed by stakeholders."
 draft: false
 featured: false
+url_pdf: https://link.springer.com/content/pdf/10.1007/s13593-015-0318-x.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-28T14:43:09.094Z
+date: 2015-07-01T14:43:09.094Z
 ---

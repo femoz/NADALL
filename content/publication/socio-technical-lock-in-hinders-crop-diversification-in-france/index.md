@@ -42,9 +42,10 @@ abstract: "Crop diversification is considered as a major lever to increase the
   of genetic, agronomic, technological, and organizational innovations."
 draft: false
 featured: false
+url_pdf: https://link.springer.com/content/pdf/10.1007/s13593-018-0535-1.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-28T14:57:52.127Z
+date: 2018-10-02T14:57:52.127Z
 ---

@@ -46,6 +46,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-28T15:10:57.311Z
+date: 2020-12-01T15:10:57.311Z
 ---
 In: Tourrand et al. (Coord.), Livestock Policy. CIRAD, Montpellier, France

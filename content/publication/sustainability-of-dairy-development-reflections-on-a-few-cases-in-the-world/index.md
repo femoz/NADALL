@@ -4,13 +4,14 @@ publication_types:
   - "2"
 authors:
   - mohamed-taher-srairi
-  - Chatellier V.
-  - Corniaux C.
-  - Faye B.
-  - Aubron C.
-  - Hostiou N.
-  - Safa A.
-  - Bouhallab S. & Lortal S.
+  - Vincent Chatellier
+  - Christian Corniaux
+  - Bernard Faye
+  - Claire Aubron
+  - Nathalie Hostiou
+  - Alejandra Safa
+  - Saïd Bouhallab
+  - Sylvie Lortal
 doi: 10.20870/productions-animales.2019.32.3.2561
 publication: INRAE Productions Animales, 32 (3), 339e-358e.
 abstract: The dairy sector is one of the pillars of global food security,

@@ -6,8 +6,8 @@ publication_types:
 authors:
   - M’hand Fares
   - Fateh Mamine
-publication: The Canadian journal of regional science, 41, 1-14.
-publication_short: CJRS/RCSR, 41, 1-14.
+publication: The Canadian journal of regional science, 41(1), 1-14.
+publication_short: CJRS/RCSR, 41(1), 1-14.
 abstract: "Cet article examine la relation entre les choix d’arrangement
   contractuel et la régula\x02tion publique de sécurité alimentaire à la lumière
   d'une recherche empirique qui établit l'importance des spécificités
@@ -20,9 +20,10 @@ abstract: "Cet article examine la relation entre les choix d’arrangement
   laitier souffrant de problème de sécurité alimentaire."
 draft: false
 featured: false
+url_pdf: https://idjs.ca/images/rcsr/archives/V41N1-FARES-MAMINE.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-28T15:02:53.237Z
+date: 2018-02-04T15:02:53.237Z
 ---

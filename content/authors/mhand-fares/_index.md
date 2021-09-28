@@ -1,8 +1,17 @@
 ---
-title: M'hand Fares
+title: "M'hand Fares"
 role: "INRAE - France"
 avatar_filename: ""
-social: []
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:mhand.fares@supagro.inra.fr.'
+- icon: address-card
+  icon_pack: fas
+  link: https://www6.toulouse.inrae.fr/agir/Les-equipes/ODYCEE/Membres/Anciens-membres/Fares-M-hand
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Mhand-Fares
 organizations:
   - name: Institut national de recherche pour l'agriculture, l'alimentation et
       l'environnement (INRAE)

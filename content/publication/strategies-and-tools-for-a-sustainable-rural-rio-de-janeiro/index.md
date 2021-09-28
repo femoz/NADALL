@@ -26,9 +26,10 @@ abstract: >-
   This book provides a portfolio of strategies and tools for land and water management that were developed within the German-Brazilian research project INTECRAL in cooperation with the state program Rio Rural, as well as Brazilian universities and research institutions. It covers a wide spectrum from research to application at the science-policy interface and has a model character for other rural areas in Latin America and beyond.  This volume will be a valuable resource for scientists, practitioners, policy makers, and graduate students in the field of environmental management and sustainable rural development.
 draft: false
 featured: false
+url_pdf: https://link.springer.com/content/pdf/10.1007%2F978-3-319-89644-1.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-28T15:55:46.879Z
+date: 2018-08-17T15:55:46.879Z
 ---

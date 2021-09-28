@@ -8,11 +8,15 @@ authors:
   - Sabine Schluter
 avatar_filename: ""
 social:
-  - display:
-      header: false
-    link: mailto:sabine.schlueter@th-koeln.de
-    icon_pack: fas
-    icon: envelope
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:sabine.schlueter@th-koeln.de'
+- icon: address-card
+  icon_pack: fas
+  link: https://www.th-koeln.de/personen/sabine.schlueter/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sabine-schl%C3%BCter-7379b736/
 organizations:
   - name: "Institute for Technology and Resources Management in the Tropics and
       Subtropics / TH Köln - University of Applied Sciences "

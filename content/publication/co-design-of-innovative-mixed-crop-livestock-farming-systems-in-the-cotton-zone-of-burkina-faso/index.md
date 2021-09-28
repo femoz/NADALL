@@ -30,11 +30,12 @@ abstract: Producers in western Burkina Faso have to contend with high rainfall
   legumes (groundnuts, cowpeas), and the rearing of cattle and small ruminants.
 draft: false
 featured: false
+url_pdf: https://www.quae-open.com/extract/403
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-09-28T13:20:32.549Z
+date: 2019-06-01T13:20:32.549Z
 ---
 <!--StartFragment-->
 

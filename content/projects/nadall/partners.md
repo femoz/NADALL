@@ -12,7 +12,7 @@ user_groups:
 
 </br>
 
-<span style='color:#001833; font-size:150%; font-weight:600'>Algeria</span>
+<span style='color:#0000FF; font-size:150%; font-weight:600'>Algeria</span>
 
 [<span style='color:#000000; font-size:135%; font-weight:400'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD)</span>](http://www.cread.dz/index.php/en/home-2/)
 | <img width="60%" src="https://forre.netlify.app/author/messaoud-lazereg/avatar_hu83d7d94eda490330d6059c686d0741e3_283467_270x270_fill_lanczos_center_2.png"> |  |  | 
@@ -119,6 +119,8 @@ Karim Rahal
 [<span style='color:#000000; font-size:125%; font-weight:400'>University of Lisbon, School of Agriculture, Centre Linking Landscape, Environment, Agriculture and Food (ISA)</span>](https://www.isa.ulisboa.pt/en/leaf/presentation)
 
 {{% mention "luis-filipe-sanches-goulao" %}}; {{% mention "antonio-jose-guerreiro-de-brito" %}}; {{% mention "andre-martinho-de-almeida" %}}; {{% mention "luis-manuel-bignolas-mira-da-silva" %}}
+
+{{% mention "antonio-jose-guerreiro-de-brito" %}}
 
 </br>
 

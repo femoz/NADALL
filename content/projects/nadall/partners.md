@@ -118,11 +118,8 @@ Karim Rahal
 
 [<span style='color:#000000; font-size:125%; font-weight:400'>University of Lisbon, School of Agriculture, Centre Linking Landscape, Environment, Agriculture and Food (ISA)</span>](https://www.isa.ulisboa.pt/en/leaf/presentation)
 
-{{% mention "luis-filipe-sanches-goulao" %}}; {{% mention "antonio-jose-guerreiro-de-brito" %}}; {{% mention "andre-martinho-de-almeida" %}}; {{% mention "luis-manuel-bignolas-mira-da-silva" %}}
+{{% mention "luis-filipe-sanches-goulao" %}}; {{% mention "António José Guerreiro de Brito" %}}; {{% mention "andre-martinho-de-almeida" %}}; {{% mention "Luis Manuel Bignolas Mira da Silva" %}}.
 
-{{% mention "António José Guerreiro de Brito" %}}
-
-{{% mention "luis-manuel-bignolas-mira-da-silva" %}}
 
 </br>
 

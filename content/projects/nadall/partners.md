@@ -65,7 +65,7 @@ Karim Rahal
 
 [<span style='color:#000000; font-size:125%; font-weight:400'>Institut national de la recherché agronomique (INRAE)</span>](https://www.inrae.fr/) 
 
-{{% mention "mhand-fares" %}}; {{% mention "Christian-Corniaux" %}}Imad Shaqura; {{% mention "Christian-Corniaux" %}}Fateh Mamine; {{% mention "Christian-Corniaux" %}}; {{% mention "Christian-Corniaux" %}}
+{{% mention "mhand-fares" %}}; {{% mention "Imad-Shaqura" %}}; {{% mention "Jean-Paul-Dubeuf" %}}; {{% mention "Jean-Michel-Sorba" %}}; {{% mention "Jean-Christophe-Paoli" %}}
 
 </br>
 
@@ -118,7 +118,7 @@ Karim Rahal
 
 [<span style='color:#000000; font-size:125%; font-weight:400'>University of Lisbon, School of Agriculture, Centre Linking Landscape, Environment, Agriculture and Food (ISA)</span>](https://www.isa.ulisboa.pt/en/leaf/presentation)
 
-{{% mention "luis-filipe-sanches-goulao" %}}; António José Guerreiro de Brito; Catarina Paula Guerra Geoffroy Prista; Luis Manuel Bignolas Mira da Silva; 
+{{% mention "luis-filipe-sanches-goulao" %}}; {{% mention "antonio-jose-guerreiro-de-brito" %}}; {{% mention "andre-martinho-de-almeida" %}}; {{% mention "luis-manuel-bignolas-mira-da-silva" %}}
 
 </br>
 

@@ -25,7 +25,7 @@ user_groups:
 
 </br>
 
-[<span style='color:#1768a6; font-size:125%; font-weight:400'>Collectif TORBA</span>](https://torba.dz/)
+[<span style='color:#000000; font-size:125%; font-weight:400'>Collectif TORBA</span>](https://torba.dz/)
 
 Karim Rahal
 
@@ -120,7 +120,9 @@ Karim Rahal
 
 {{% mention "luis-filipe-sanches-goulao" %}}; {{% mention "antonio-jose-guerreiro-de-brito" %}}; {{% mention "andre-martinho-de-almeida" %}}; {{% mention "luis-manuel-bignolas-mira-da-silva" %}}
 
-{{% mention "antonio-jose-guerreiro-de-brito" %}}
+{{% mention "António José Guerreiro de Brito" %}}
+
+{{% mention "luis-manuel-bignolas-mira-da-silva" %}}
 
 </br>
 

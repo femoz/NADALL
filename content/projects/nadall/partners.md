@@ -12,9 +12,9 @@ user_groups:
 
 </br>
 
-<span style='color:#0000FF; font-size:150%; font-weight:600'>Algeria</span>
+<span style='color:blue; font-size:150%; font-weight:600'>Algeria</span>
 
-[<span style='color:#000000; font-size:135%; font-weight:400'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD)</span>](http://www.cread.dz/index.php/en/home-2/)
+[<span style='color:#000000; font-size:125%; font-weight:400'>Centre de Recherche en Économie Appliquée pour le Développement (CREAD)</span>](http://www.cread.dz/index.php/en/home-2/)
 | <img width="60%" src="https://forre.netlify.app/author/messaoud-lazereg/avatar_hu83d7d94eda490330d6059c686d0741e3_283467_270x270_fill_lanczos_center_2.png"> |  |  | 
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
 | <p style="text-align: center;"> {{% mention "messaoud-lazereg" %}}</p> | <p style="text-align: center;"> {{% mention "sabria-laribi" %}}</p> | <p style="text-align: center;"> {{% mention "kousseila-bellil" %}}</p> |

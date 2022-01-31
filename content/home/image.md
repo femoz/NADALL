@@ -5,13 +5,13 @@ widget: blank
 widget_id: "Closing widget "
 headless: true
 weight: 30
-title: 
-subtitle: 
+title: null
+subtitle: null
 active: true
 design:
   columns: "1"
-  background: 
-    image: farmer.jpg
+  background:
+    image: tractor-2437925_960_720.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
